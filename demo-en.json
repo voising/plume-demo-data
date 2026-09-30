@@ -1,0 +1,4217 @@
+{
+  "goal": {
+    "mantra": "Show up, then do it again",
+    "details": "Gym three times a week, forró on Mondays and Thursdays, ten pages before bed. Write something here every evening, even on ordinary days.",
+    "icon": "figure.strengthtraining.traditional"
+  },
+  "entries": [
+    {
+      "daysAgo": 0,
+      "journal": "Two years in here, almost to the day. I scrolled back to the first entry, the one about not being able to remember last month. I can remember this one. Most of it, anyway.\n\nWhat changed was never one decision. It was going back to the gym on a Wednesday, reading ten pages instead of scrolling, saying yes to a spare ticket. Then doing it again.",
+      "todos": [
+        {
+          "title": "Finish the school brief",
+          "completed": false
+        },
+        {
+          "title": "Book the October flights to Porto",
+          "completed": false
+        },
+        {
+          "title": "Gym: squat and bench",
+          "completed": false
+        },
+        {
+          "title": "Call my parents",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 1,
+      "journal": "Put Inès on the train to Porto. The station at seven in the morning, grey light, a coffee from the kiosk. Walked home the long way through the old town. I noticed I was not sad, just full.",
+      "memories": [
+        "The station at seven with Inès"
+      ],
+      "todos": [
+        {
+          "title": "Plan the October trip to Porto",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "daysAgo": 2,
+      "journal": "Inès is here for the weekend. We cooked, badly, and danced in the kitchen. She says I lead the same way I talk, slowly and then all at once.",
+      "gratitudes": [
+        "Inès here for the weekend",
+        "Cooking badly together"
+      ],
+      "memories": [
+        "Dancing in the kitchen with Inès"
+      ]
+    },
+    {
+      "daysAgo": 3,
+      "journal": "Friday. Deadlift session with Tom, 150 for triples. He is starting a strength course for beginners at the gym and asked me to help on Saturdays. Everything I have is turning into helping other people start. I like that.",
+      "accomplishments": [
+        "Deadlift 150kg for 3 triples"
+      ],
+      "todos": [
+        {
+          "title": "Reply to Tom about Saturdays",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 4,
+      "journal": "Went to forró and it fixed the day. Rafa played a slow xote at the end and I danced it with Ana without thinking about a single step. Walked home along the river with my ears ringing.",
+      "gratitudes": [
+        "The last slow xote of the night",
+        "A warm evening in late September"
+      ]
+    },
+    {
+      "daysAgo": 5,
+      "journal": "Tired. Stayed late with the brief. Skipped the gym and regretted it. Ten pages of Seneca before bed: we suffer more in imagination than in reality.",
+      "todos": [
+        {
+          "title": "Finish the school brief",
+          "completed": false
+        },
+        {
+          "title": "Renew the gym membership",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 6,
+      "journal": "First day properly leading the school project. Kick-off with the headteacher, who wants the playground to be the heart of the building. I agree. Gym after, light, just to move.",
+      "accomplishments": [
+        "Ran the school kick-off meeting"
+      ],
+      "todos": [
+        {
+          "title": "Site photos for the school",
+          "completed": true
+        },
+        {
+          "title": "Email the structural engineer",
+          "completed": true
+        },
+        {
+          "title": "Draft the brief",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "daysAgo": 7,
+      "journal": "Beginner class again. A new group of twelve, all stiff shoulders and apologies. Rafa had me demonstrate the basic step with Ana. Somebody asked how long it took me to learn. I said a year and a half and I am still learning, which is true.",
+      "todos": [
+        {
+          "title": "Send Rafa the playlist for Monday",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 8,
+      "journal": "Sunday. Long lunch at Claire's. Jules has started judo and showed me how to fall properly, very seriously. Read Stoner on the balcony until the light went.",
+      "memories": [
+        "Jules teaching me how to fall"
+      ],
+      "todos": [
+        {
+          "title": "Buy Jules a book about octopuses",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "daysAgo": 9,
+      "journal": "Saturday market with Inès on the phone, showing her the tomatoes through the camera like an idiot. Squat session after. Heavy week, good week.",
+      "gratitudes": [
+        "The last good tomatoes of the year",
+        "Inès laughing at me on video"
+      ]
+    },
+    {
+      "daysAgo": 10,
+      "journal": "Fixed the wobbly table with a folded bus ticket. Very proud.",
+      "gratitudes": [
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 11,
+      "journal": "Forró. The heat in the back room was unreal. Nobody left.",
+      "gratitudes": [
+        "The forró crowd",
+        "Tom at the gym",
+        "Fresh bread from the bakery"
+      ]
+    },
+    {
+      "daysAgo": 12,
+      "journal": "The practice asked me to lead the school extension project. Real responsibility. A year ago I think I would have said yes out of fear. This time I asked for a week, thought about it, and said yes because I want it.",
+      "accomplishments": [
+        "Said yes to leading the school project, for the right reason"
+      ]
+    },
+    {
+      "daysAgo": 13,
+      "journal": "Pull-ups after squats. Managed eight.",
+      "gratitudes": [
+        "Claire checking in",
+        "Jules on video"
+      ],
+      "memories": [
+        "The swifts screaming over the square"
+      ]
+    },
+    {
+      "daysAgo": 14,
+      "journal": "Sunday forró in the park. Hot grass, a big crowd, the good speaker. Leaves all over the tram tracks, the tram crawling. I want to remember this one."
+    },
+    {
+      "daysAgo": 15,
+      "journal": "Market, then cooking for the week.",
+      "gratitudes": [
+        "A long call with my mother",
+        "The long summer evenings"
+      ],
+      "todos": [
+        {
+          "title": "Book the physio",
+          "completed": true
+        },
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        },
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 18,
+      "journal": "Danced with a new beginner who was terrified. By the third song she was laughing. Grateful for this summer.",
+      "gratitudes": [
+        "Rafa's class"
+      ]
+    },
+    {
+      "daysAgo": 20,
+      "journal": "Deadlifts, then a long stretch in the empty studio. Rilke again. Some letters I have now read four times."
+    },
+    {
+      "daysAgo": 21,
+      "journal": "Started Stoner, the novel, on Léa's advice. A quiet man teaching at a university for forty years. It is devastating in a very calm way. Put it down halfway through the evening and went for a long walk."
+    },
+    {
+      "daysAgo": 22,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. Chestnuts roasting on the corner by the station.",
+      "gratitudes": [
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 23,
+      "journal": "Gym early before the heat. The fans barely help. Put the duvet back on the bed. Read on the balcony until eleven. Stoner, slowly.",
+      "accomplishments": [
+        "Squat 130kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 25,
+      "journal": "Class tonight, then everyone went for a drink by the canal. The first cold morning. Found last year's scarf in the wardrobe. A few pages of Epictetus on the tram: some things are up to us and some are not."
+    },
+    {
+      "daysAgo": 26,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. Fog on the river until ten. Still surprised at how full the days feel.",
+      "gratitudes": [
+        "Claire checking in",
+        "Léa's texts"
+      ],
+      "todos": [
+        {
+          "title": "Buy chalk",
+          "completed": true
+        },
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        },
+        {
+          "title": "Birthday present for Claire",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 27,
+      "journal": "Squats felt easy, which usually means next week will not. Mushrooms at the market, the man says it has been a good year.",
+      "accomplishments": [
+        "Squat 130kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 28,
+      "journal": "Danced with a new beginner who was terrified. By the third song she was laughing. Rilke again. Some letters I have now read four times.",
+      "todos": [
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        },
+        {
+          "title": "Book the physio",
+          "completed": true
+        },
+        {
+          "title": "Buy chalk",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 29,
+      "journal": "Forró. The heat in the back room was unreal. Nobody left. Iced coffee on the steps of the church in the square. A few pages of Epictetus on the tram: some things are up to us and some are not.",
+      "gratitudes": [
+        "An evening with nothing planned",
+        "Tom at the gym",
+        "Jules on video"
+      ],
+      "todos": [
+        {
+          "title": "Meal prep for the week",
+          "completed": true
+        },
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 30,
+      "journal": "Trained with Tom. We did not talk about anything, which was perfect. Swam at the outdoor pool after work, forty lengths. Read on the balcony until eleven. Stoner, slowly. Still surprised at how full the days feel.",
+      "gratitudes": [
+        "An evening with nothing planned"
+      ],
+      "accomplishments": [
+        "Squat 130kg top set"
+      ]
+    },
+    {
+      "daysAgo": 31,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books.",
+      "gratitudes": [
+        "The long summer evenings",
+        "A quiet evening",
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 32,
+      "journal": "Class tonight, then everyone went for a drink by the canal. Rilke again. Some letters I have now read four times. Grateful for this summer.",
+      "gratitudes": [
+        "An evening with nothing planned"
+      ],
+      "todos": [
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        },
+        {
+          "title": "Fix the bike brakes",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 34,
+      "journal": "Deadlifts, then a long stretch in the empty studio. The city half empty. Everyone is at the sea. I want to remember this one."
+    },
+    {
+      "daysAgo": 36,
+      "journal": "Sunday forró in the park. Hot grass, a big crowd, the good speaker.",
+      "gratitudes": [
+        "Dancing with Ana"
+      ]
+    },
+    {
+      "daysAgo": 37,
+      "journal": "Inès came to the city for the weekend. Showed her the river, the market, the bar by the canal where it all started. Took her to the Sunday park session and Rafa winked at me across the grass, which I will never forgive.",
+      "gratitudes": [
+        "A weekend showing someone my city"
+      ],
+      "memories": [
+        "Inès at the Sunday forró in the park"
+      ]
+    },
+    {
+      "daysAgo": 38,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping. Too hot to sleep. Lay on the floor with the window open and read.",
+      "gratitudes": [
+        "Claire checking in",
+        "A quiet evening"
+      ]
+    },
+    {
+      "daysAgo": 39,
+      "journal": "Forró. The heat in the back room was unreal. Nobody left. The river quay full of people until midnight. Read on the balcony until eleven. Stoner, slowly.",
+      "gratitudes": [
+        "Music loud enough to feel in the floor"
+      ]
+    },
+    {
+      "daysAgo": 40,
+      "journal": "Quiet day in the office, headphones on, plans done. A few pages of Epictetus on the tram: some things are up to us and some are not."
+    },
+    {
+      "daysAgo": 41,
+      "journal": "Gym early before the heat. The fans barely help. Long evening on the quay with a beer and nothing to do. A few pages of Epictetus on the tram: some things are up to us and some are not. Still surprised at how full the days feel.",
+      "accomplishments": [
+        "Squat 130kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 42,
+      "journal": "Class tonight, then everyone went for a drink by the canal. Storm in the evening, the whole street smelled of wet stone. Read on the balcony until eleven. Stoner, slowly.",
+      "gratitudes": [
+        "My body feeling strong",
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 43,
+      "journal": "Danced with a new beginner who was terrified. By the third song she was laughing. Tomatoes from the market that actually taste of something.",
+      "gratitudes": [
+        "The accordion player at the baile"
+      ],
+      "todos": [
+        {
+          "title": "Birthday present for Claire",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        },
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 44,
+      "journal": "Squats felt easy, which usually means next week will not.",
+      "accomplishments": [
+        "Squat 130kg top set"
+      ]
+    },
+    {
+      "daysAgo": 45,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Ate peaches over the sink. Rilke again. Some letters I have now read four times."
+    },
+    {
+      "daysAgo": 46,
+      "journal": "Sunday forró in the park. Hot grass, a big crowd, the good speaker. I want to remember this one."
+    },
+    {
+      "daysAgo": 47,
+      "journal": "Long bath and an early night. A few pages of Epictetus on the tram: some things are up to us and some are not. Grateful for this summer.",
+      "gratitudes": [
+        "The river on the walk home",
+        "Fresh bread from the bakery"
+      ]
+    },
+    {
+      "daysAgo": 50,
+      "journal": "Forró. The heat in the back room was unreal. Nobody left. Tomatoes from the market that actually taste of something. Read on the balcony until eleven. Stoner, slowly.",
+      "gratitudes": [
+        "A song I did not want to end",
+        "Soup on a cold day"
+      ],
+      "todos": [
+        {
+          "title": "Fix the bike brakes",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 51,
+      "journal": "Trained with Tom. We did not talk about anything, which was perfect. The river quay full of people until midnight. Still surprised at how full the days feel.",
+      "accomplishments": [
+        "Squat 130kg top set"
+      ]
+    },
+    {
+      "daysAgo": 52,
+      "journal": "Deadlift 160kg. Two years ago I was walking past the gym window. I sat on the bench afterwards and did not feel like celebrating, just very calm. Tom said that is how you know it is real strength.",
+      "memories": [
+        "Sitting on the bench after 160kg, very calm"
+      ],
+      "accomplishments": [
+        "Deadlift 160kg"
+      ]
+    },
+    {
+      "daysAgo": 53,
+      "journal": "Danced with a new beginner who was terrified. By the third song she was laughing. Long evening on the quay with a beer and nothing to do. Rilke again. Some letters I have now read four times.",
+      "todos": [
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 55,
+      "journal": "Pull-ups after squats. Managed eight. Iced coffee on the steps of the church in the square. Rilke again. Some letters I have now read four times. Grateful for this summer."
+    },
+    {
+      "daysAgo": 56,
+      "journal": "Class tonight, then everyone went for a drink by the canal. Storm in the evening, the whole street smelled of wet stone. A few pages of Epictetus on the tram: some things are up to us and some are not.",
+      "gratitudes": [
+        "A song I did not want to end",
+        "Claire checking in",
+        "An evening with nothing planned"
+      ]
+    },
+    {
+      "daysAgo": 57,
+      "journal": "Danced with a new beginner who was terrified. By the third song she was laughing. The city half empty. Everyone is at the sea. Read on the balcony until eleven. Stoner, slowly. I want to remember this one.",
+      "gratitudes": [
+        "Rafa's class",
+        "Tom at the gym"
+      ]
+    },
+    {
+      "daysAgo": 59,
+      "journal": "Walked home along the river instead of taking the tram. Ate peaches over the sink."
+    },
+    {
+      "daysAgo": 61,
+      "journal": "Too many emails, not enough drawing. Grateful for this summer.",
+      "todos": [
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        },
+        {
+          "title": "Book the physio",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 63,
+      "journal": "Sunday forró in the park. Hot grass, a big crowd, the good speaker. Too hot to sleep. Lay on the floor with the window open and read.",
+      "gratitudes": [
+        "A good night's sleep",
+        "My body feeling strong"
+      ]
+    },
+    {
+      "daysAgo": 64,
+      "journal": "Class tonight, then everyone went for a drink by the canal. Swam at the outdoor pool after work, forty lengths. I want to remember this one."
+    },
+    {
+      "daysAgo": 66,
+      "journal": "Film at the old cinema by the canal with Léa. Too hot to sleep. Lay on the floor with the window open and read. Rilke again. Some letters I have now read four times. Still surprised at how full the days feel.",
+      "todos": [
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        },
+        {
+          "title": "Pay the electricity bill",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 67,
+      "journal": "Class tonight, then everyone went for a drink by the canal. Grateful for this summer."
+    },
+    {
+      "daysAgo": 68,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Long evening on the quay with a beer and nothing to do. Read on the balcony until eleven. Stoner, slowly.",
+      "gratitudes": [
+        "An evening with nothing planned"
+      ]
+    },
+    {
+      "daysAgo": 70,
+      "journal": "Sunday forró in the park. Hot grass, a big crowd, the good speaker. A few pages of Epictetus on the tram: some things are up to us and some are not.",
+      "gratitudes": [
+        "The accordion player at the baile"
+      ]
+    },
+    {
+      "daysAgo": 71,
+      "journal": "Danced with a new beginner who was terrified. By the third song she was laughing.",
+      "gratitudes": [
+        "Dancing with Ana"
+      ]
+    },
+    {
+      "daysAgo": 72,
+      "journal": "Deadlifts, then a long stretch in the empty studio. Storm in the evening, the whole street smelled of wet stone.",
+      "accomplishments": [
+        "Deadlift 150kg top set"
+      ]
+    },
+    {
+      "daysAgo": 73,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon. Rilke again. Some letters I have now read four times. I want to remember this one.",
+      "gratitudes": [
+        "Tom at the gym",
+        "Léa's texts"
+      ]
+    },
+    {
+      "daysAgo": 74,
+      "journal": "Danced with a new beginner who was terrified. By the third song she was laughing. The city half empty. Everyone is at the sea. Still surprised at how full the days feel.",
+      "gratitudes": [
+        "Dancing with Ana"
+      ]
+    },
+    {
+      "daysAgo": 76,
+      "journal": "Trained with Tom. We did not talk about anything, which was perfect."
+    },
+    {
+      "daysAgo": 77,
+      "journal": "Back home. Tired down to my bones. Inès and I have been messaging all day, mostly about music. I do not want to make it into a story yet.",
+      "gratitudes": [
+        "Four days in Portugal"
+      ]
+    },
+    {
+      "daysAgo": 79,
+      "journal": "Danced with a woman called Inès from the Porto group three times tonight. She laughed at the same moment in the music I did. We talked outside the tent until the sun came up over the water.",
+      "gratitudes": [
+        "The sea air at five in the morning"
+      ],
+      "memories": [
+        "Talking to Inès outside the tent until sunrise"
+      ]
+    },
+    {
+      "daysAgo": 80,
+      "journal": "In Portugal for a forró festival, near Lisbon. Four days of workshops and dancing until four in the morning in a big tent by the sea. Went with Ana and three people from class. I am the slowest learner here and I do not mind at all.",
+      "todos": [
+        {
+          "title": "Book the airport train",
+          "completed": true
+        },
+        {
+          "title": "Pack the good shoes",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 82,
+      "journal": "Site visit in the rain. Boots full of mud, happy. Ate peaches over the sink. Letters to a Young Poet on the tram, one letter a day."
+    },
+    {
+      "daysAgo": 84,
+      "journal": "Baile on Saturday. Danced for three hours straight and remembered to drink water for once. A book about attachment styles that Léa lent me. Recognised myself on page six.",
+      "gratitudes": [
+        "The accordion player at the baile"
+      ]
+    },
+    {
+      "daysAgo": 85,
+      "journal": "Monday beginners class. Danced with everyone who needed a partner. Iced coffee on the steps of the church in the square. Started Why We Sleep and went to bed an hour earlier, which was the point."
+    },
+    {
+      "daysAgo": 86,
+      "journal": "Heavy day. Chalk, bar, breath, up. Tomatoes from the market that actually taste of something. Slept eight hours. Should be a bigger deal than it is.",
+      "gratitudes": [
+        "Léa's texts"
+      ]
+    },
+    {
+      "daysAgo": 88,
+      "journal": "Forró practice with Ana before class. We are working on the pause. The river quay full of people until midnight. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "gratitudes": [
+        "Rafa's class",
+        "Morning coffee on the balcony"
+      ]
+    },
+    {
+      "daysAgo": 89,
+      "journal": "Watched the swifts over the rooftops from the balcony. Swam at the outdoor pool after work, forty lengths.",
+      "todos": [
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 90,
+      "journal": "Gym with Tom. He is cutting weight for a meet and is grumpy about it. The city half empty. Everyone is at the sea. Nothing happened and it was a good day."
+    },
+    {
+      "daysAgo": 91,
+      "journal": "Class tonight. Rafa had us dance with our eyes closed for a song. Iced coffee on the steps of the church in the square. Tried Zarathustra. Gave up at the tightrope walker. Might come back.",
+      "gratitudes": [
+        "The forró crowd"
+      ]
+    },
+    {
+      "daysAgo": 93,
+      "journal": "Deadlifts, slowly and carefully, the way the physio showed me. The river quay full of people until midnight. A book about attachment styles that Léa lent me. Recognised myself on page six. I like the shape of my weeks now."
+    },
+    {
+      "daysAgo": 96,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "gratitudes": [
+        "Tom at the gym",
+        "A good night's sleep"
+      ]
+    },
+    {
+      "daysAgo": 98,
+      "journal": "Forró. The xote is my favourite now, slow and close. Long evening on the quay with a beer and nothing to do. I like the shape of my weeks now.",
+      "gratitudes": [
+        "Tom at the gym",
+        "The tram arriving just as I got there"
+      ]
+    },
+    {
+      "daysAgo": 99,
+      "journal": "Fête de la Musique again. Same square, same band, a year later. I knew half the people dancing and taught the basic step to a man who had been standing by the wall for forty minutes.",
+      "memories": [
+        "Teaching the basic step to the man by the wall"
+      ]
+    },
+    {
+      "daysAgo": 100,
+      "journal": "Light day, mostly rows and core. Keeping the back honest."
+    },
+    {
+      "daysAgo": 101,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing. Ate peaches over the sink. Slept eight hours. Should be a bigger deal than it is."
+    },
+    {
+      "daysAgo": 103,
+      "journal": "Film at the old cinema by the canal with Léa. Letters to a Young Poet on the tram, one letter a day.",
+      "gratitudes": [
+        "Claire checking in",
+        "The tram arriving just as I got there",
+        "A quiet evening"
+      ]
+    },
+    {
+      "daysAgo": 104,
+      "journal": "Squats and bench. Nothing special, just the work. Tried Zarathustra. Gave up at the tightrope walker. Might come back.",
+      "todos": [
+        {
+          "title": "Call my parents",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 105,
+      "journal": "Baile on Saturday. Danced for three hours straight and remembered to drink water for once."
+    },
+    {
+      "daysAgo": 106,
+      "journal": "Forró practice with Ana before class. We are working on the pause. Started Why We Sleep and went to bed an hour earlier, which was the point. Nothing happened and it was a good day."
+    },
+    {
+      "daysAgo": 107,
+      "journal": "Early gym. The new guy on the next rack asked me about my squat form, of all things. Started Why We Sleep and went to bed an hour earlier, which was the point.",
+      "gratitudes": [
+        "Claire checking in",
+        "A quiet evening",
+        "A good book"
+      ],
+      "accomplishments": [
+        "Deadlift 140kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 108,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Too hot to sleep. Lay on the floor with the window open and read."
+    },
+    {
+      "daysAgo": 110,
+      "journal": "Market, then cooking for the week. Storm in the evening, the whole street smelled of wet stone. Tried Zarathustra. Gave up at the tightrope walker. Might come back."
+    },
+    {
+      "daysAgo": 111,
+      "journal": "Gym with Tom. He is cutting weight for a meet and is grumpy about it. Swam at the outdoor pool after work, forty lengths. A book about attachment styles that Léa lent me. Recognised myself on page six. Nothing happened and it was a good day.",
+      "accomplishments": [
+        "Deadlift 140kg top set"
+      ]
+    },
+    {
+      "daysAgo": 112,
+      "journal": "Monday beginners class. Danced with everyone who needed a partner. Slept eight hours. Should be a bigger deal than it is."
+    },
+    {
+      "daysAgo": 115,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books. Tomatoes from the market that actually taste of something. I like the shape of my weeks now."
+    },
+    {
+      "daysAgo": 116,
+      "journal": "Class tonight. Rafa had us dance with our eyes closed for a song.",
+      "todos": [
+        {
+          "title": "Book the physio",
+          "completed": true
+        },
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        },
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 117,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "todos": [
+        {
+          "title": "Pay the electricity bill",
+          "completed": true
+        },
+        {
+          "title": "Meal prep for the week",
+          "completed": true
+        },
+        {
+          "title": "Buy new dance shoes",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 118,
+      "journal": "Deadlifts, slowly and carefully, the way the physio showed me. The city half empty. Everyone is at the sea. Nothing happened and it was a good day.",
+      "memories": [
+        "Léa singing badly on the walk home"
+      ]
+    },
+    {
+      "daysAgo": 119,
+      "journal": "Class tonight. Rafa had us dance with our eyes closed for a song. Letters to a Young Poet on the tram, one letter a day.",
+      "gratitudes": [
+        "A good book"
+      ]
+    },
+    {
+      "daysAgo": 121,
+      "journal": "Squats and bench. Nothing special, just the work. The café by the tram stop put its tables out. Tried Zarathustra. Gave up at the tightrope walker. Might come back. Slept eight hours. Should be a bigger deal than it is.",
+      "gratitudes": [
+        "Soup on a cold day",
+        "Morning coffee on the balcony"
+      ],
+      "accomplishments": [
+        "Squat 105kg top set"
+      ]
+    },
+    {
+      "daysAgo": 122,
+      "journal": "Long bath and an early night. Windows open all day, the whole flat smelled of the lime tree. Reread my notes on Seneca. Still the most useful thing I have read. I like the shape of my weeks now."
+    },
+    {
+      "daysAgo": 123,
+      "journal": "Forró practice with Ana before class. We are working on the pause. Nothing happened and it was a good day.",
+      "gratitudes": [
+        "Music loud enough to feel in the floor"
+      ]
+    },
+    {
+      "daysAgo": 124,
+      "journal": "Team lunch. Someone brought a cake for no reason. Letters to a Young Poet on the tram, one letter a day.",
+      "gratitudes": [
+        "Jules on video",
+        "The river on the walk home"
+      ]
+    },
+    {
+      "daysAgo": 125,
+      "journal": "Heavy day. Chalk, bar, breath, up. The plane trees on the quay have leaves again."
+    },
+    {
+      "daysAgo": 126,
+      "journal": "Baile on Saturday. Danced for three hours straight and remembered to drink water for once. Started Why We Sleep and went to bed an hour earlier, which was the point. Slept eight hours. Should be a bigger deal than it is.",
+      "gratitudes": [
+        "A good book",
+        "An evening with nothing planned"
+      ]
+    },
+    {
+      "daysAgo": 127,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. Blossom all over the pavement on my street. A book about attachment styles that Léa lent me. Recognised myself on page six.",
+      "todos": [
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        },
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 128,
+      "journal": "Light day, mostly rows and core. Keeping the back honest. Rain and sun every ten minutes all afternoon. Letters to a Young Poet on the tram, one letter a day.",
+      "todos": [
+        {
+          "title": "Buy new dance shoes",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 129,
+      "journal": "Squat 130kg for a single. Slow, ugly, up. Tom filmed it. I have watched it maybe twenty times.",
+      "accomplishments": [
+        "Squat 130kg"
+      ]
+    },
+    {
+      "daysAgo": 130,
+      "journal": "Forró. The xote is my favourite now, slow and close. Light until eight now. The evenings feel twice as long.",
+      "gratitudes": [
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 131,
+      "journal": "Presented the facade options. They picked the one I wanted. Cycled to work for the first time since October.",
+      "memories": [
+        "The tram driver waiting for me at the stop"
+      ]
+    },
+    {
+      "daysAgo": 134,
+      "journal": "Watched the swifts over the rooftops from the balcony. Asparagus at the market, the first of the year.",
+      "memories": [
+        "Dancing a xote in the rain outside the bar"
+      ]
+    },
+    {
+      "daysAgo": 135,
+      "journal": "Early gym. The new guy on the next rack asked me about my squat form, of all things. First evening warm enough to eat on the balcony. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "accomplishments": [
+        "Squat 100kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Buy chalk",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 137,
+      "journal": "Monday beginners class. Danced with everyone who needed a partner.",
+      "gratitudes": [
+        "A song I did not want to end"
+      ]
+    },
+    {
+      "daysAgo": 138,
+      "journal": "Walked home along the river instead of taking the tram. Nothing happened and it was a good day.",
+      "todos": [
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        },
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 139,
+      "journal": "Early gym. The new guy on the next rack asked me about my squat form, of all things. Cycled to work for the first time since October. A book about attachment styles that Léa lent me. Recognised myself on page six. Slept eight hours. Should be a bigger deal than it is.",
+      "accomplishments": [
+        "Squat 100kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Book the physio",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 141,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. Rain and sun every ten minutes all afternoon. I like the shape of my weeks now."
+    },
+    {
+      "daysAgo": 142,
+      "journal": "Squats and bench. Nothing special, just the work. Started Why We Sleep and went to bed an hour earlier, which was the point.",
+      "gratitudes": [
+        "Fresh bread from the bakery"
+      ]
+    },
+    {
+      "daysAgo": 145,
+      "journal": "Presented the facade options. They picked the one I wanted. The café by the tram stop put its tables out.",
+      "gratitudes": [
+        "My body feeling strong",
+        "The river on the walk home"
+      ],
+      "todos": [
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 147,
+      "journal": "Forró. The xote is my favourite now, slow and close. Blossom all over the pavement on my street. Tried Zarathustra. Gave up at the tightrope walker. Might come back. Nothing happened and it was a good day."
+    },
+    {
+      "daysAgo": 148,
+      "journal": "Reading Letters to a Young Poet on the tram. Rilke tells the young man to love the questions themselves. I have been treating questions as a waiting room for answers.",
+      "memories": [
+        "Rilke on the morning tram"
+      ]
+    },
+    {
+      "daysAgo": 149,
+      "journal": "Deadlifts, slowly and carefully, the way the physio showed me. The plane trees on the quay have leaves again. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "gratitudes": [
+        "A good night's sleep"
+      ],
+      "accomplishments": [
+        "Deadlift 120kg top set"
+      ]
+    },
+    {
+      "daysAgo": 150,
+      "journal": "Too many emails, not enough drawing. Started Why We Sleep and went to bed an hour earlier, which was the point."
+    },
+    {
+      "daysAgo": 152,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Asparagus at the market, the first of the year. Letters to a Young Poet on the tram, one letter a day.",
+      "memories": [
+        "The bridge at night with the whole city lit up"
+      ]
+    },
+    {
+      "daysAgo": 154,
+      "journal": "Baile on Saturday. Danced for three hours straight and remembered to drink water for once. Windows open all day, the whole flat smelled of the lime tree.",
+      "gratitudes": [
+        "The forró crowd"
+      ],
+      "memories": [
+        "The whole class clapping when Rafa's daughter danced with him"
+      ]
+    },
+    {
+      "daysAgo": 158,
+      "journal": "Forró practice with Ana before class. We are working on the pause. A book about attachment styles that Léa lent me. Recognised myself on page six. I like the shape of my weeks now.",
+      "gratitudes": [
+        "Rafa's class"
+      ]
+    },
+    {
+      "daysAgo": 159,
+      "journal": "Team lunch. Someone brought a cake for no reason. First evening warm enough to eat on the balcony. Tried Zarathustra. Gave up at the tightrope walker. Might come back."
+    },
+    {
+      "daysAgo": 160,
+      "journal": "Heavy day. Chalk, bar, breath, up. Light until eight now. The evenings feel twice as long. Slept eight hours. Should be a bigger deal than it is.",
+      "accomplishments": [
+        "Deadlift 115kg top set"
+      ],
+      "memories": [
+        "Jules asleep on my shoulder on the sofa"
+      ]
+    },
+    {
+      "daysAgo": 162,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon. Blossom all over the pavement on my street.",
+      "gratitudes": [
+        "A quiet evening",
+        "The tram arriving just as I got there"
+      ],
+      "todos": [
+        {
+          "title": "Laundry",
+          "completed": true
+        },
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        },
+        {
+          "title": "Buy chalk",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 163,
+      "journal": "Gym with Tom. He is cutting weight for a meet and is grumpy about it.",
+      "gratitudes": [
+        "Warm shower after training"
+      ]
+    },
+    {
+      "daysAgo": 164,
+      "journal": "Site visit in the rain. Boots full of mud, happy. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "gratitudes": [
+        "Claire checking in"
+      ]
+    },
+    {
+      "daysAgo": 165,
+      "journal": "Forró. The xote is my favourite now, slow and close. Asparagus at the market, the first of the year. I like the shape of my weeks now."
+    },
+    {
+      "daysAgo": 167,
+      "journal": "Early gym. The new guy on the next rack asked me about my squat form, of all things. Rain and sun every ten minutes all afternoon.",
+      "todos": [
+        {
+          "title": "Order the lamp for the living room",
+          "completed": true
+        },
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 168,
+      "journal": "Forró practice with Ana before class. We are working on the pause.",
+      "gratitudes": [
+        "A song I did not want to end",
+        "A good night's sleep"
+      ],
+      "todos": [
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        },
+        {
+          "title": "Pay the electricity bill",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 169,
+      "journal": "One year since Léa's ticket. Took her to dinner to say thank you. She said she only bought it because she had a spare. Some of the biggest things in my life lately started with someone else's spare ticket or spare hour.",
+      "gratitudes": [
+        "Léa's spare ticket, a year ago"
+      ]
+    },
+    {
+      "daysAgo": 170,
+      "journal": "Gym with Tom. He is cutting weight for a meet and is grumpy about it. First evening warm enough to eat on the balcony. Nothing happened and it was a good day."
+    },
+    {
+      "daysAgo": 172,
+      "journal": "Class tonight. Rafa had us dance with our eyes closed for a song. Light until eight now. The evenings feel twice as long. Letters to a Young Poet on the tram, one letter a day. Slept eight hours. Should be a bigger deal than it is."
+    },
+    {
+      "daysAgo": 173,
+      "journal": "Long bath and an early night. Cycled to work for the first time since October. Tried Zarathustra. Gave up at the tightrope walker. Might come back.",
+      "todos": [
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 174,
+      "journal": "Deadlifts, slowly and carefully, the way the physio showed me. Started Why We Sleep and went to bed an hour earlier, which was the point."
+    },
+    {
+      "daysAgo": 175,
+      "journal": "Rafa asked me to help with the beginner class on Mondays. Mostly I stand at the side and dance with whoever is left without a partner. I see the same frozen shoulders I had a year ago. It is strange to be on this side of it.",
+      "accomplishments": [
+        "Started helping with the beginner forró class"
+      ]
+    },
+    {
+      "daysAgo": 176,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books. A book about attachment styles that Léa lent me. Recognised myself on page six."
+    },
+    {
+      "daysAgo": 177,
+      "journal": "Squats and bench. Nothing special, just the work. The plane trees on the quay have leaves again. Slept eight hours. Should be a bigger deal than it is.",
+      "gratitudes": [
+        "A quiet evening"
+      ],
+      "accomplishments": [
+        "Deadlift 110kg top set"
+      ]
+    },
+    {
+      "daysAgo": 178,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing.",
+      "gratitudes": [
+        "The river on the walk home",
+        "Léa's texts"
+      ]
+    },
+    {
+      "daysAgo": 179,
+      "journal": "Baile on Saturday. Danced for three hours straight and remembered to drink water for once. Windows open all day, the whole flat smelled of the lime tree. I like the shape of my weeks now."
+    },
+    {
+      "daysAgo": 180,
+      "journal": "Quiet day in the office, headphones on, plans done. The café by the tram stop put its tables out. Nothing happened and it was a good day."
+    },
+    {
+      "daysAgo": 181,
+      "journal": "Heavy day. Chalk, bar, breath, up.",
+      "gratitudes": [
+        "Fresh bread from the bakery",
+        "The tram arriving just as I got there"
+      ]
+    },
+    {
+      "daysAgo": 182,
+      "journal": "Class tonight. Rafa had us dance with our eyes closed for a song. Rain and sun every ten minutes all afternoon. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "gratitudes": [
+        "Tom at the gym",
+        "A good night's sleep"
+      ]
+    },
+    {
+      "daysAgo": 183,
+      "journal": "Walked home along the river instead of taking the tram. Tried Zarathustra. Gave up at the tightrope walker. Might come back."
+    },
+    {
+      "daysAgo": 184,
+      "journal": "Light day, mostly rows and core. Keeping the back honest. The plane trees on the quay have leaves again.",
+      "accomplishments": [
+        "Deadlift 105kg top set"
+      ]
+    },
+    {
+      "daysAgo": 186,
+      "journal": "Forró. The xote is my favourite now, slow and close. Blossom all over the pavement on my street.",
+      "gratitudes": [
+        "The accordion player at the baile",
+        "Tom at the gym"
+      ],
+      "dreams": [
+        "Lifting a bar that kept getting longer"
+      ]
+    },
+    {
+      "daysAgo": 187,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Letters to a Young Poet on the tram, one letter a day.",
+      "gratitudes": [
+        "Warm shower after training"
+      ]
+    },
+    {
+      "daysAgo": 188,
+      "journal": "Squats and bench. Nothing special, just the work.",
+      "gratitudes": [
+        "An evening with nothing planned",
+        "Fresh bread from the bakery"
+      ]
+    },
+    {
+      "daysAgo": 189,
+      "journal": "Monday beginners class. Danced with everyone who needed a partner. Started Why We Sleep and went to bed an hour earlier, which was the point.",
+      "gratitudes": [
+        "Music loud enough to feel in the floor"
+      ]
+    },
+    {
+      "daysAgo": 190,
+      "journal": "Watched the swifts over the rooftops from the balcony. Windows open all day, the whole flat smelled of the lime tree.",
+      "gratitudes": [
+        "Claire checking in",
+        "A quiet evening"
+      ]
+    },
+    {
+      "daysAgo": 191,
+      "journal": "Deadlifts, slowly and carefully, the way the physio showed me. A book about attachment styles that Léa lent me. Recognised myself on page six.",
+      "accomplishments": [
+        "Deadlift 100kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Order the lamp for the living room",
+          "completed": true
+        },
+        {
+          "title": "Laundry",
+          "completed": true
+        },
+        {
+          "title": "Birthday present for Claire",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 192,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Asparagus at the market, the first of the year. A book about attachment styles that Léa lent me. Recognised myself on page six.",
+      "memories": [
+        "My mother laughing at my father's terrible joke"
+      ]
+    },
+    {
+      "daysAgo": 193,
+      "journal": "Forró practice with Ana before class. We are working on the pause. Light until eight now. The evenings feel twice as long. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "memories": [
+        "The market man giving me a free peach"
+      ]
+    },
+    {
+      "daysAgo": 194,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. First evening warm enough to eat on the balcony.",
+      "gratitudes": [
+        "Clean sheets",
+        "Tom at the gym"
+      ]
+    },
+    {
+      "daysAgo": 195,
+      "journal": "Early gym. The new guy on the next rack asked me about my squat form, of all things. The café by the tram stop put its tables out.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "Tom at the gym",
+        "A good night's sleep"
+      ],
+      "accomplishments": [
+        "Deadlift 100kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        },
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 196,
+      "journal": "Baile on Saturday. Danced for three hours straight and remembered to drink water for once. Cycled to work for the first time since October. Started Why We Sleep and went to bed an hour earlier, which was the point.",
+      "gratitudes": [
+        "A song I did not want to end"
+      ]
+    },
+    {
+      "daysAgo": 197,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon."
+    },
+    {
+      "daysAgo": 198,
+      "journal": "Thirty-five. I thought it would feel like something. It feels like a Saturday. Gym in the morning, lunch with my parents who came into town, a baile in the evening. If you had told me at thirty-three that this would be my birthday I would have thought you had the wrong person.",
+      "gratitudes": [
+        "My parents coming into the city for lunch",
+        "Dancing on my birthday"
+      ],
+      "memories": [
+        "Thirty-fifth birthday at the baile"
+      ]
+    },
+    {
+      "daysAgo": 199,
+      "journal": "Team lunch. Someone brought a cake for no reason. First evening warm enough to eat on the balcony. Slept eight hours. Should be a bigger deal than it is."
+    },
+    {
+      "daysAgo": 200,
+      "journal": "Class tonight. Rafa had us dance with our eyes closed for a song. Rain and sun every ten minutes all afternoon. Tried Zarathustra. Gave up at the tightrope walker. Might come back."
+    },
+    {
+      "daysAgo": 201,
+      "journal": "Site visit in the rain. Boots full of mud, happy. The plane trees on the quay have leaves again. Letters to a Young Poet on the tram, one letter a day."
+    },
+    {
+      "daysAgo": 202,
+      "journal": "Gym with Tom. He is cutting weight for a meet and is grumpy about it. Letters to a Young Poet on the tram, one letter a day. I like the shape of my weeks now.",
+      "gratitudes": [
+        "Warm shower after training"
+      ],
+      "accomplishments": [
+        "Squat 75kg top set"
+      ]
+    },
+    {
+      "daysAgo": 203,
+      "journal": "Forró practice with Ana before class. We are working on the pause. Blossom all over the pavement on my street.",
+      "gratitudes": [
+        "Rafa's class"
+      ]
+    },
+    {
+      "daysAgo": 204,
+      "journal": "Market, then cooking for the week. Light until eight now. The evenings feel twice as long. Nothing happened and it was a good day."
+    },
+    {
+      "daysAgo": 205,
+      "journal": "Heavy day. Chalk, bar, breath, up. Cycled to work for the first time since October. Reread my notes on Seneca. Still the most useful thing I have read."
+    },
+    {
+      "daysAgo": 206,
+      "journal": "Fixed the wobbly table with a folded bus ticket. Very proud. Windows open all day, the whole flat smelled of the lime tree. Started Why We Sleep and went to bed an hour earlier, which was the point. Slept eight hours. Should be a bigger deal than it is."
+    },
+    {
+      "daysAgo": 207,
+      "journal": "Baile on Saturday. Danced for three hours straight and remembered to drink water for once. The café by the tram stop put its tables out. Tried Zarathustra. Gave up at the tightrope walker. Might come back. Nothing happened and it was a good day."
+    },
+    {
+      "daysAgo": 208,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Rain and sun every ten minutes all afternoon. A book about attachment styles that Léa lent me. Recognised myself on page six.",
+      "gratitudes": [
+        "The river on the walk home",
+        "Warm shower after training",
+        "A good night's sleep"
+      ],
+      "todos": [
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        },
+        {
+          "title": "Birthday present for Claire",
+          "completed": true
+        },
+        {
+          "title": "Reply to the landlord",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 209,
+      "journal": "Deadlifts, slowly and carefully, the way the physio showed me. Light until eight now. The evenings feel twice as long. Tried Zarathustra. Gave up at the tightrope walker. Might come back."
+    },
+    {
+      "daysAgo": 210,
+      "journal": "Monday beginners class. Danced with everyone who needed a partner. Asparagus at the market, the first of the year. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "gratitudes": [
+        "Music loud enough to feel in the floor"
+      ]
+    },
+    {
+      "daysAgo": 213,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping. A book about attachment styles that Léa lent me. Recognised myself on page six.",
+      "gratitudes": [
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 214,
+      "journal": "Forró practice with Ana before class. We are working on the pause. Letters to a Young Poet on the tram, one letter a day. Nothing happened and it was a good day.",
+      "gratitudes": [
+        "Léa's texts",
+        "Warm shower after training"
+      ]
+    },
+    {
+      "daysAgo": 216,
+      "journal": "Light day, mostly rows and core. Keeping the back honest. Radiator in the flat finally working properly. Started Why We Sleep and went to bed an hour earlier, which was the point.",
+      "gratitudes": [
+        "Clean sheets",
+        "Léa's texts",
+        "Tom at the gym"
+      ]
+    },
+    {
+      "daysAgo": 217,
+      "journal": "Forró. The xote is my favourite now, slow and close. Dark by five. The tram windows fogged up all the way home.",
+      "gratitudes": [
+        "The forró crowd"
+      ]
+    },
+    {
+      "daysAgo": 218,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. Market almost empty, just the cheese man and the oranges. Tried Zarathustra. Gave up at the tightrope walker. Might come back."
+    },
+    {
+      "daysAgo": 219,
+      "journal": "Early gym. The new guy on the next rack asked me about my squat form, of all things. Slept eight hours. Should be a bigger deal than it is."
+    },
+    {
+      "daysAgo": 220,
+      "journal": "Film at the old cinema by the canal with Léa. Soup from the Vietnamese place on the corner, eaten standing at the window.",
+      "memories": [
+        "Tom's face when I beat his squat PR"
+      ]
+    },
+    {
+      "daysAgo": 222,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing. Letters to a Young Poet on the tram, one letter a day.",
+      "memories": [
+        "The tram driver waiting for me at the stop"
+      ]
+    },
+    {
+      "daysAgo": 223,
+      "journal": "We did not win the library. Second place, which comes with a small fee and a nice letter. I was flat all afternoon. Went to forró anyway and could not stay sad in that room. Ana said my lead was clearer than before Christmas, which I think was kind and possibly true.",
+      "gratitudes": [
+        "The forró room on a bad day"
+      ]
+    },
+    {
+      "daysAgo": 224,
+      "journal": "Baile on Saturday. Danced for three hours straight and remembered to drink water for once. Clear and very cold. You could see the mountains from the bridge. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "gratitudes": [
+        "The accordion player at the baile"
+      ]
+    },
+    {
+      "daysAgo": 225,
+      "journal": "Film at the old cinema by the canal with Léa.",
+      "gratitudes": [
+        "Tom at the gym"
+      ],
+      "dreams": [
+        "Swimming in the river in winter and it was warm"
+      ],
+      "todos": [
+        {
+          "title": "Pay the electricity bill",
+          "completed": true
+        },
+        {
+          "title": "Buy new dance shoes",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 227,
+      "journal": "Too many emails, not enough drawing. Frost on the bike saddle this morning. A book about attachment styles that Léa lent me. Recognised myself on page six.",
+      "memories": [
+        "My mother laughing at my father's terrible joke"
+      ]
+    },
+    {
+      "daysAgo": 229,
+      "journal": "Presented the facade options. They picked the one I wanted. Started Why We Sleep and went to bed an hour earlier, which was the point.",
+      "gratitudes": [
+        "Morning coffee on the balcony"
+      ]
+    },
+    {
+      "daysAgo": 230,
+      "journal": "Heavy day. Chalk, bar, breath, up. Grey all day, the kind of cold that sits in the stairwell."
+    },
+    {
+      "daysAgo": 231,
+      "journal": "Forró. The xote is my favourite now, slow and close. Walked home through the lit-up streets in the cold. Tried Zarathustra. Gave up at the tightrope walker. Might come back."
+    },
+    {
+      "daysAgo": 233,
+      "journal": "Deadlifts, slowly and carefully, the way the physio showed me. Snow for about an hour, then rain on top of it. A book about attachment styles that Léa lent me. Recognised myself on page six."
+    },
+    {
+      "daysAgo": 234,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. The river was steaming in the cold at eight."
+    },
+    {
+      "daysAgo": 235,
+      "journal": "Forró practice with Ana before class. We are working on the pause. The river was steaming in the cold at eight. I like the shape of my weeks now.",
+      "gratitudes": [
+        "Warm shower after training",
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 236,
+      "journal": "Quiet day in the office, headphones on, plans done. Dark by five. The tram windows fogged up all the way home. Reread my notes on Seneca. Still the most useful thing I have read.",
+      "gratitudes": [
+        "The market on Saturday morning"
+      ],
+      "dreams": [
+        "Back at school, but all my teachers were forró dancers"
+      ]
+    },
+    {
+      "daysAgo": 239,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. Walked home through the lit-up streets in the cold.",
+      "todos": [
+        {
+          "title": "Book the physio",
+          "completed": true
+        },
+        {
+          "title": "Buy chalk",
+          "completed": true
+        },
+        {
+          "title": "Birthday present for Claire",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 240,
+      "journal": "Early gym. The new guy on the next rack asked me about my squat form, of all things. Grey all day, the kind of cold that sits in the stairwell. Nothing happened and it was a good day.",
+      "gratitudes": [
+        "Léa's texts",
+        "Jules on video"
+      ],
+      "dreams": [
+        "Dancing on a moving tram and nobody finding it strange"
+      ]
+    },
+    {
+      "daysAgo": 241,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Market almost empty, just the cheese man and the oranges. I like the shape of my weeks now.",
+      "gratitudes": [
+        "Léa's texts"
+      ]
+    },
+    {
+      "daysAgo": 242,
+      "journal": "Monday beginners class. Danced with everyone who needed a partner. Radiator in the flat finally working properly. Slept eight hours. Should be a bigger deal than it is.",
+      "gratitudes": [
+        "The forró crowd",
+        "Fresh bread from the bakery"
+      ],
+      "memories": [
+        "The whole class clapping when Rafa's daughter danced with him"
+      ]
+    },
+    {
+      "daysAgo": 244,
+      "journal": "Squats and bench. Nothing special, just the work. Snow for about an hour, then rain on top of it."
+    },
+    {
+      "daysAgo": 245,
+      "journal": "Back under the bar properly. Started light, 60kg, and it felt like coming home. Tom made me promise to leave my ego in the changing room.",
+      "accomplishments": [
+        "Back to squatting after the injury"
+      ]
+    },
+    {
+      "daysAgo": 246,
+      "journal": "Walked for an hour instead of training. The back is better when I move. Clear and very cold. You could see the mountains from the bridge. More Camus. The absurd is easier to think about lying down.",
+      "gratitudes": [
+        "A long call with my mother",
+        "The river on the walk home"
+      ]
+    },
+    {
+      "daysAgo": 249,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books. Frost on the bike saddle this morning. Read a book on pain science the physio recommended. The brain does more of it than I thought."
+    },
+    {
+      "daysAgo": 250,
+      "journal": "Went to the gym just to use the bike and watch Tom squat. Soup from the Vietnamese place on the corner, eaten standing at the window.",
+      "gratitudes": [
+        "Léa's texts",
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 251,
+      "journal": "Physio exercises on the living room floor. Bird dogs, dead bugs, very glamorous. Walked home through the lit-up streets in the cold."
+    },
+    {
+      "daysAgo": 253,
+      "journal": "Mobility work and the physio's list. Twenty minutes, every day. Reading on the floor, the only comfortable position."
+    },
+    {
+      "daysAgo": 255,
+      "journal": "Went to the gym just to use the bike and watch Tom squat. Grey all day, the kind of cold that sits in the stairwell. Reading on the floor, the only comfortable position."
+    },
+    {
+      "daysAgo": 256,
+      "journal": "Walked for an hour instead of training. The back is better when I move. Soup from the Vietnamese place on the corner, eaten standing at the window. More Camus. The absurd is easier to think about lying down. Patience. Not my strength, apparently."
+    },
+    {
+      "daysAgo": 257,
+      "journal": "Quiet day in the office, headphones on, plans done. The river was steaming in the cold at eight.",
+      "gratitudes": [
+        "Tom at the gym"
+      ]
+    },
+    {
+      "daysAgo": 258,
+      "journal": "Mobility work and the physio's list. Twenty minutes, every day."
+    },
+    {
+      "daysAgo": 260,
+      "journal": "Physio exercises on the living room floor. Bird dogs, dead bugs, very glamorous. Read a book on pain science the physio recommended. The brain does more of it than I thought."
+    },
+    {
+      "daysAgo": 261,
+      "journal": "Walked for an hour instead of training. The back is better when I move. Frost on the bike saddle this morning. Frustrating week. Wrote it down so it stays here.",
+      "gratitudes": [
+        "Clean sheets"
+      ]
+    },
+    {
+      "daysAgo": 262,
+      "journal": "Four Thousand Weeks. Burkeman says the average life is about four thousand weeks and most of productivity advice is a way of not facing that. I have used about 1,800 of mine. I closed the book and called my sister.",
+      "todos": [
+        {
+          "title": "Call Claire about her birthday",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 263,
+      "journal": "Market, then cooking for the week. Clear and very cold. You could see the mountains from the bridge. More Camus. The absurd is easier to think about lying down.",
+      "gratitudes": [
+        "A good night's sleep"
+      ]
+    },
+    {
+      "daysAgo": 265,
+      "journal": "Team lunch. Someone brought a cake for no reason. Dark by five. The tram windows fogged up all the way home. Read a book on pain science the physio recommended. The brain does more of it than I thought. Frustrating week. Wrote it down so it stays here."
+    },
+    {
+      "daysAgo": 267,
+      "journal": "Mobility work and the physio's list. Twenty minutes, every day. Radiator in the flat finally working properly."
+    },
+    {
+      "daysAgo": 268,
+      "journal": "Physio exercises on the living room floor. Bird dogs, dead bugs, very glamorous. Market almost empty, just the cheese man and the oranges. Reading on the floor, the only comfortable position."
+    },
+    {
+      "daysAgo": 269,
+      "journal": "Went to the gym just to use the bike and watch Tom squat."
+    },
+    {
+      "daysAgo": 270,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. More Camus. The absurd is easier to think about lying down."
+    },
+    {
+      "daysAgo": 271,
+      "journal": "Walked for an hour instead of training. The back is better when I move. Reading on the floor, the only comfortable position.",
+      "todos": [
+        {
+          "title": "Pay the electricity bill",
+          "completed": true
+        },
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 273,
+      "journal": "Went to watch the forró class. Sitting out is its own lesson: you see every partner's shoulders. Snow for about an hour, then rain on top of it. Read a book on pain science the physio recommended. The brain does more of it than I thought.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "Warm shower after training",
+        "A quiet evening"
+      ]
+    },
+    {
+      "daysAgo": 275,
+      "journal": "Long bath and an early night.",
+      "gratitudes": [
+        "Warm shower after training"
+      ]
+    },
+    {
+      "daysAgo": 276,
+      "journal": "Presented the facade options. They picked the one I wanted. Read a book on pain science the physio recommended. The brain does more of it than I thought. Patience. Not my strength, apparently.",
+      "gratitudes": [
+        "An evening with nothing planned"
+      ]
+    },
+    {
+      "daysAgo": 278,
+      "journal": "Christmas at my parents' again. Jules is five and has opinions. My father has started walking every morning since the summer. He did not mention it, my mother did.",
+      "gratitudes": [
+        "My father walking every morning",
+        "Jules explaining dinosaurs to me for an hour"
+      ]
+    },
+    {
+      "daysAgo": 280,
+      "journal": "Went to watch the forró class. Sitting out is its own lesson: you see every partner's shoulders. Radiator in the flat finally working properly. Frustrating week. Wrote it down so it stays here.",
+      "gratitudes": [
+        "Dancing with Ana",
+        "A long call with my mother"
+      ],
+      "memories": [
+        "Jules asleep on my shoulder on the sofa"
+      ]
+    },
+    {
+      "daysAgo": 281,
+      "journal": "Watched the swifts over the rooftops from the balcony.",
+      "memories": [
+        "The market man giving me a free peach"
+      ]
+    },
+    {
+      "daysAgo": 282,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping."
+    },
+    {
+      "daysAgo": 283,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Soup from the Vietnamese place on the corner, eaten standing at the window. Patience. Not my strength, apparently.",
+      "gratitudes": [
+        "Claire checking in",
+        "Jules on video"
+      ]
+    },
+    {
+      "daysAgo": 284,
+      "journal": "Walked home along the river instead of taking the tram. Clear and very cold. You could see the mountains from the bridge.",
+      "gratitudes": [
+        "The river on the walk home"
+      ],
+      "memories": [
+        "Léa singing badly on the walk home"
+      ],
+      "todos": [
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 285,
+      "journal": "Site visit in the rain. Boots full of mud, happy. Patience. Not my strength, apparently.",
+      "gratitudes": [
+        "An evening with nothing planned",
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 286,
+      "journal": "Mobility work and the physio's list. Twenty minutes, every day. Walked home through the lit-up streets in the cold. Reading on the floor, the only comfortable position.",
+      "todos": [
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        },
+        {
+          "title": "Buy new dance shoes",
+          "completed": true
+        },
+        {
+          "title": "Birthday present for Claire",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 287,
+      "journal": "Went to watch the forró class. Sitting out is its own lesson: you see every partner's shoulders.",
+      "gratitudes": [
+        "A long call with my mother",
+        "Clean sheets"
+      ],
+      "todos": [
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        },
+        {
+          "title": "Fix the bike brakes",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 288,
+      "journal": "Physio exercises on the living room floor. Bird dogs, dead bugs, very glamorous. Dark by five. The tram windows fogged up all the way home."
+    },
+    {
+      "daysAgo": 289,
+      "journal": "Called my mother. She had questions about the gym that I could answer now."
+    },
+    {
+      "daysAgo": 290,
+      "journal": "Too many emails, not enough drawing. Frost on the bike saddle this morning. More Camus. The absurd is easier to think about lying down. Frustrating week. Wrote it down so it stays here."
+    },
+    {
+      "daysAgo": 291,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping. Read a book on pain science the physio recommended. The brain does more of it than I thought.",
+      "gratitudes": [
+        "Warm shower after training"
+      ]
+    },
+    {
+      "daysAgo": 293,
+      "journal": "Quiet day in the office, headphones on, plans done. The river was steaming in the cold at eight. Reading on the floor, the only comfortable position.",
+      "memories": [
+        "Dancing a xote in the rain outside the bar"
+      ]
+    },
+    {
+      "daysAgo": 295,
+      "journal": "Went to the gym just to use the bike and watch Tom squat. Snow for about an hour, then rain on top of it.",
+      "gratitudes": [
+        "Clean sheets",
+        "The tram arriving just as I got there"
+      ]
+    },
+    {
+      "daysAgo": 296,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books. Market almost empty, just the cheese man and the oranges.",
+      "gratitudes": [
+        "Claire checking in"
+      ]
+    },
+    {
+      "daysAgo": 297,
+      "journal": "Team lunch. Someone brought a cake for no reason. Grey all day, the kind of cold that sits in the stairwell. Patience. Not my strength, apparently.",
+      "memories": [
+        "Tom's face when I beat his squat PR"
+      ],
+      "todos": [
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 298,
+      "journal": "We submitted the library. Three months of work in a PDF. The team went for drinks and I had one and walked home, which is a thing I would not have done a year ago. Back is better. Physio gave me dull exercises that work.",
+      "accomplishments": [
+        "Submitted the library competition"
+      ]
+    },
+    {
+      "daysAgo": 299,
+      "journal": "Too many emails, not enough drawing. Radiator in the flat finally working properly. More Camus. The absurd is easier to think about lying down. Frustrating week. Wrote it down so it stays here."
+    },
+    {
+      "daysAgo": 301,
+      "journal": "Went to watch the forró class. Sitting out is its own lesson: you see every partner's shoulders. Market almost empty, just the cheese man and the oranges.",
+      "gratitudes": [
+        "A song I did not want to end",
+        "A good book"
+      ]
+    },
+    {
+      "daysAgo": 302,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Rain all day, the good kind for reading. Read a book on pain science the physio recommended. The brain does more of it than I thought."
+    },
+    {
+      "daysAgo": 303,
+      "journal": "Film at the old cinema by the canal with Léa. The light goes gold around five now."
+    },
+    {
+      "daysAgo": 305,
+      "journal": "Market, then cooking for the week. Reading on the floor, the only comfortable position.",
+      "gratitudes": [
+        "Fresh bread from the bakery",
+        "Tom at the gym"
+      ],
+      "dreams": [
+        "Back at school, but all my teachers were forró dancers"
+      ]
+    },
+    {
+      "daysAgo": 306,
+      "journal": "Walked for an hour instead of training. The back is better when I move. Mushrooms at the market, the man says it has been a good year. Frustrating week. Wrote it down so it stays here.",
+      "todos": [
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        },
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        },
+        {
+          "title": "Call my parents",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 309,
+      "journal": "Went to the gym just to use the bike and watch Tom squat. The light goes gold around five now."
+    },
+    {
+      "daysAgo": 310,
+      "journal": "Physio exercises on the living room floor. Bird dogs, dead bugs, very glamorous. Fog on the river until ten. Patience. Not my strength, apparently."
+    },
+    {
+      "daysAgo": 311,
+      "journal": "Mobility work and the physio's list. Twenty minutes, every day. Leaves all over the tram tracks, the tram crawling. More Camus. The absurd is easier to think about lying down.",
+      "gratitudes": [
+        "Morning coffee on the balcony"
+      ],
+      "dreams": [
+        "Lifting a bar that kept getting longer"
+      ]
+    },
+    {
+      "daysAgo": 312,
+      "journal": "Reading The Myth of Sisyphus flat on the floor because it is the only position that does not hurt. Camus says we must imagine Sisyphus happy. Today I can imagine him with a bad back, lying next to the rock.",
+      "memories": [
+        "Reading Camus flat on the floor with a bad back"
+      ]
+    },
+    {
+      "daysAgo": 313,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying.",
+      "gratitudes": [
+        "Clean sheets",
+        "The tram arriving just as I got there"
+      ],
+      "todos": [
+        {
+          "title": "Reply to the landlord",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 314,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Chestnuts roasting on the corner by the station."
+    },
+    {
+      "daysAgo": 317,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. The first cold morning. Found last year's scarf in the wardrobe. Reading on the floor, the only comfortable position.",
+      "gratitudes": [
+        "A good night's sleep",
+        "An evening with nothing planned"
+      ],
+      "dreams": [
+        "Dancing on a moving tram and nobody finding it strange"
+      ]
+    },
+    {
+      "daysAgo": 318,
+      "journal": "Physio exercises on the living room floor. Bird dogs, dead bugs, very glamorous. Rain all day, the good kind for reading. Read a book on pain science the physio recommended. The brain does more of it than I thought. Patience. Not my strength, apparently."
+    },
+    {
+      "daysAgo": 320,
+      "journal": "Hurt my back. Deadlifts, tired, heavier than planned, and I felt something go on the last rep. Not dramatic, just a hot line across the lower back. Rafa says no dancing for two weeks. Tom says that was ego. Both right.",
+      "todos": [
+        {
+          "title": "Physio on Thursday",
+          "completed": true
+        },
+        {
+          "title": "Tell Rafa I will miss two classes",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 321,
+      "journal": "Gym at six thirty, the only hour this week that was mine. Need to protect the evenings.",
+      "gratitudes": [
+        "The market on Saturday morning"
+      ]
+    },
+    {
+      "daysAgo": 322,
+      "journal": "Intermediate class. Rafa says I rush the music. He is right."
+    },
+    {
+      "daysAgo": 325,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing. Busy, but it is my kind of busy.",
+      "gratitudes": [
+        "Tom at the gym",
+        "A good book"
+      ],
+      "todos": [
+        {
+          "title": "Call my parents",
+          "completed": true
+        },
+        {
+          "title": "Buy chalk",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 327,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon. Read Burkeman in bed. Put it down and stared at the ceiling for a while. Busy, but it is my kind of busy.",
+      "gratitudes": [
+        "The river on the walk home",
+        "Soup on a cold day"
+      ],
+      "memories": [
+        "The swifts screaming over the square"
+      ]
+    },
+    {
+      "daysAgo": 332,
+      "journal": "Walked home along the river instead of taking the tram. Put the duvet back on the bed."
+    },
+    {
+      "daysAgo": 335,
+      "journal": "Deadlifts felt fast today.",
+      "todos": [
+        {
+          "title": "Buy chalk",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 336,
+      "journal": "Forró class. The turns are starting to feel like a conversation.",
+      "gratitudes": [
+        "The accordion player at the baile"
+      ]
+    },
+    {
+      "daysAgo": 337,
+      "journal": "Watched the swifts over the rooftops from the balcony. The first cold morning. Found last year's scarf in the wardrobe. Need to protect the evenings."
+    },
+    {
+      "daysAgo": 339,
+      "journal": "Site visit in the rain. Boots full of mud, happy.",
+      "gratitudes": [
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 340,
+      "journal": "Big week at the practice. We are entering the competition for the library renovation in the old tobacco factory. I have not worked this late since my twenties. Missed the gym twice. Tom sent a photo of the empty squat rack with the caption \"it misses you\".",
+      "todos": [
+        {
+          "title": "Finish the section drawings for the library",
+          "completed": true
+        },
+        {
+          "title": "Book a physio if the shoulder still clicks",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "daysAgo": 341,
+      "journal": "Presented the facade options. They picked the one I wanted.",
+      "todos": [
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 342,
+      "journal": "Short gym session between the office and the class. Chestnuts roasting on the corner by the station."
+    },
+    {
+      "daysAgo": 344,
+      "journal": "Long bath and an early night. Put the duvet back on the bed. Five pages of Camus before sleep, which is about all I can manage this week. Busy, but it is my kind of busy.",
+      "gratitudes": [
+        "A quiet evening",
+        "Warm shower after training"
+      ]
+    },
+    {
+      "daysAgo": 345,
+      "journal": "Heavy squats, the bar bent a little on my back. Good day. Mushrooms at the market, the man says it has been a good year. Need to protect the evenings."
+    },
+    {
+      "daysAgo": 350,
+      "journal": "Forró tonight. Ana and I finally got the double turn. Read Burkeman in bed. Put it down and stared at the ceiling for a while."
+    },
+    {
+      "daysAgo": 351,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping. Fog on the river until ten. Busy, but it is my kind of busy."
+    },
+    {
+      "daysAgo": 352,
+      "journal": "Short gym session between the office and the class. Rain all day, the good kind for reading.",
+      "gratitudes": [
+        "Tom at the gym",
+        "Léa's texts",
+        "A good book"
+      ]
+    },
+    {
+      "daysAgo": 353,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Leaves all over the tram tracks, the tram crawling. Five pages of Camus before sleep, which is about all I can manage this week. Need to protect the evenings."
+    },
+    {
+      "daysAgo": 354,
+      "journal": "Danced until eleven. Tired and very awake.",
+      "gratitudes": [
+        "Rafa's class"
+      ],
+      "todos": [
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        },
+        {
+          "title": "Buy new dance shoes",
+          "completed": true
+        },
+        {
+          "title": "Reply to the landlord",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 355,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. The light goes gold around five now.",
+      "memories": [
+        "The bridge at night with the whole city lit up"
+      ]
+    },
+    {
+      "daysAgo": 356,
+      "journal": "Gym at six thirty, the only hour this week that was mine. Rain all day, the good kind for reading. Need to protect the evenings.",
+      "todos": [
+        {
+          "title": "Book the physio",
+          "completed": true
+        },
+        {
+          "title": "Pay the electricity bill",
+          "completed": true
+        },
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 357,
+      "journal": "Started the intermediate forró class. Rafa teaches turns now, and the difference between leading one and dragging someone through one is very small and very obvious to the other person."
+    },
+    {
+      "daysAgo": 358,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon. Put the duvet back on the bed."
+    },
+    {
+      "daysAgo": 361,
+      "journal": "Forró tonight. Ana and I finally got the double turn.",
+      "gratitudes": [
+        "Music loud enough to feel in the floor"
+      ]
+    },
+    {
+      "daysAgo": 362,
+      "journal": "Team lunch. Someone brought a cake for no reason. Leaves all over the tram tracks, the tram crawling. Five pages of Camus before sleep, which is about all I can manage this week. Busy, but it is my kind of busy.",
+      "gratitudes": [
+        "An evening with nothing planned",
+        "A good night's sleep",
+        "A good book"
+      ]
+    },
+    {
+      "daysAgo": 363,
+      "journal": "One year of writing in here. I read back through October last year and the person writing it sounds tired in a way I had not noticed at the time. The gym, the books, and now forró. None of it was a plan. Each one just made the next one easier to say yes to.",
+      "accomplishments": [
+        "A full year of journaling"
+      ]
+    },
+    {
+      "daysAgo": 366,
+      "journal": "Heavy squats, the bar bent a little on my back. Good day. Read Burkeman in bed. Put it down and stared at the ceiling for a while.",
+      "gratitudes": [
+        "A good book",
+        "Jules on video"
+      ]
+    },
+    {
+      "daysAgo": 371,
+      "journal": "Danced until eleven. Tired and very awake. Chestnuts roasting on the corner by the station.",
+      "gratitudes": [
+        "An evening with nothing planned",
+        "Fresh bread from the bakery"
+      ]
+    },
+    {
+      "daysAgo": 372,
+      "journal": "Market, then cooking for the week. Five pages of Camus before sleep, which is about all I can manage this week."
+    },
+    {
+      "daysAgo": 373,
+      "journal": "Deadlifts felt fast today. Mushrooms at the market, the man says it has been a good year.",
+      "accomplishments": [
+        "Deadlift 145kg top set"
+      ]
+    },
+    {
+      "daysAgo": 374,
+      "journal": "Too many emails, not enough drawing."
+    },
+    {
+      "daysAgo": 376,
+      "journal": "Site visit in the rain. Boots full of mud, happy. Read Burkeman in bed. Put it down and stared at the ceiling for a while. Need to protect the evenings.",
+      "gratitudes": [
+        "The river on the walk home",
+        "My body feeling strong"
+      ]
+    },
+    {
+      "daysAgo": 377,
+      "journal": "Heavy squats, the bar bent a little on my back. Good day. The light goes gold around five now. Read Burkeman in bed. Put it down and stared at the ceiling for a while.",
+      "gratitudes": [
+        "Léa's texts"
+      ]
+    },
+    {
+      "daysAgo": 378,
+      "journal": "Forró class. The turns are starting to feel like a conversation. Fog on the river until ten."
+    },
+    {
+      "daysAgo": 379,
+      "journal": "Watched the swifts over the rooftops from the balcony. The first cold morning. Found last year's scarf in the wardrobe. Five pages of Camus before sleep, which is about all I can manage this week. Busy, but it is my kind of busy.",
+      "todos": [
+        {
+          "title": "Laundry",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 381,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. Fog on the river until ten. Five pages of Camus before sleep, which is about all I can manage this week."
+    },
+    {
+      "daysAgo": 383,
+      "journal": "Film at the old cinema by the canal with Léa. Read Burkeman in bed. Put it down and stared at the ceiling for a while.",
+      "gratitudes": [
+        "The market on Saturday morning",
+        "Jules on video"
+      ]
+    },
+    {
+      "daysAgo": 385,
+      "journal": "Intermediate class. Rafa says I rush the music. He is right. Mushrooms at the market, the man says it has been a good year.",
+      "gratitudes": [
+        "A song I did not want to end",
+        "Claire checking in",
+        "My body feeling strong"
+      ]
+    },
+    {
+      "daysAgo": 386,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. The first cold morning. Found last year's scarf in the wardrobe. Busy, but it is my kind of busy.",
+      "gratitudes": [
+        "Warm shower after training",
+        "The tram arriving just as I got there"
+      ],
+      "dreams": [
+        "Swimming in the river in winter and it was warm"
+      ],
+      "todos": [
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 387,
+      "journal": "Short gym session between the office and the class.",
+      "gratitudes": [
+        "Jules on video"
+      ],
+      "accomplishments": [
+        "Deadlift 145kg top set"
+      ]
+    },
+    {
+      "daysAgo": 388,
+      "journal": "Walked home along the river instead of taking the tram. Rain all day, the good kind for reading. Need to protect the evenings.",
+      "gratitudes": [
+        "The market on Saturday morning"
+      ],
+      "todos": [
+        {
+          "title": "Reply to the landlord",
+          "completed": true
+        },
+        {
+          "title": "Call my parents",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 389,
+      "journal": "Danced until eleven. Tired and very awake. Leaves all over the tram tracks, the tram crawling. Read Burkeman in bed. Put it down and stared at the ceiling for a while.",
+      "gratitudes": [
+        "My body feeling strong",
+        "The river on the walk home",
+        "Léa's texts"
+      ],
+      "todos": [
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        },
+        {
+          "title": "Reply to the landlord",
+          "completed": true
+        },
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 390,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Five pages of Camus before sleep, which is about all I can manage this week.",
+      "gratitudes": [
+        "An evening with nothing planned",
+        "A good night's sleep",
+        "Tom at the gym"
+      ],
+      "todos": [
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 391,
+      "journal": "Deadlifts felt fast today. Put the duvet back on the bed.",
+      "gratitudes": [
+        "Jules on video",
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 392,
+      "journal": "Forró class. The turns are starting to feel like a conversation. The light goes gold around five now.",
+      "gratitudes": [
+        "Music loud enough to feel in the floor",
+        "The tram arriving just as I got there"
+      ]
+    },
+    {
+      "daysAgo": 393,
+      "journal": "Forró. I counted less tonight. Too hot to sleep. Lay on the floor with the window open and read. A Seneca letter about travel: you take yourself with you wherever you go."
+    },
+    {
+      "daysAgo": 394,
+      "journal": "First baile, a full night of dancing with a live trio. Four hours. I asked eleven people to dance and got eleven yeses, which Rafa says is the rule, but it still felt like a gift every time.",
+      "gratitudes": [
+        "Eleven yeses"
+      ],
+      "accomplishments": [
+        "Danced a whole baile"
+      ]
+    },
+    {
+      "daysAgo": 395,
+      "journal": "Quiet day in the office, headphones on, plans done. The river quay full of people until midnight. Seneca's letters on the tram, one a day.",
+      "gratitudes": [
+        "A good book",
+        "Soup on a cold day",
+        "Léa's texts"
+      ]
+    },
+    {
+      "daysAgo": 396,
+      "journal": "Light session, mostly stretching. My hips are tight from dancing. Storm in the evening, the whole street smelled of wet stone.",
+      "accomplishments": [
+        "Deadlift 145kg top set"
+      ]
+    },
+    {
+      "daysAgo": 397,
+      "journal": "Presented the facade options. They picked the one I wanted. Asked myself what I wanted this week and had an answer."
+    },
+    {
+      "daysAgo": 398,
+      "journal": "Gym in the morning so I have legs left for the evening.",
+      "accomplishments": [
+        "Deadlift 145kg top set"
+      ]
+    },
+    {
+      "daysAgo": 399,
+      "journal": "Forró class. Worked on the frame. My arms are finally doing less. Kahneman at lunch. Two pages, a lot of coffee. Everything feels a bit lighter this spring.",
+      "gratitudes": [
+        "My body feeling strong",
+        "A good night's sleep"
+      ]
+    },
+    {
+      "daysAgo": 402,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Ate peaches over the sink. Read on the quay until the light went.",
+      "memories": [
+        "The tram driver waiting for me at the stop"
+      ]
+    },
+    {
+      "daysAgo": 405,
+      "journal": "Squats, and then walking home like a cowboy. Iced coffee on the steps of the church in the square. A Seneca letter about travel: you take yourself with you wherever you go. I laugh more than I did a year ago.",
+      "gratitudes": [
+        "Tom at the gym"
+      ],
+      "accomplishments": [
+        "Deadlift 145kg top set"
+      ]
+    },
+    {
+      "daysAgo": 407,
+      "journal": "Danced with Ana, then with a man from class who leads better than I do. Learned more following than leading. Swam at the outdoor pool after work, forty lengths.",
+      "gratitudes": [
+        "The forró crowd"
+      ]
+    },
+    {
+      "daysAgo": 408,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow. Read on the quay until the light went.",
+      "todos": [
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        },
+        {
+          "title": "Order the lamp for the living room",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 410,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. Tomatoes from the market that actually taste of something. Asked myself what I wanted this week and had an answer."
+    },
+    {
+      "daysAgo": 411,
+      "journal": "Fixed the wobbly table with a folded bus ticket. Very proud. I laugh more than I did a year ago."
+    },
+    {
+      "daysAgo": 412,
+      "journal": "Gym in the morning so I have legs left for the evening. Storm in the evening, the whole street smelled of wet stone. Everything feels a bit lighter this spring.",
+      "gratitudes": [
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 413,
+      "journal": "Class in the back room of the bar. Hot, loud, good. Too hot to sleep. Lay on the floor with the window open and read. Kahneman at lunch. Two pages, a lot of coffee.",
+      "gratitudes": [
+        "Rafa's class"
+      ]
+    },
+    {
+      "daysAgo": 415,
+      "journal": "A week at the coast with my parents. Swam every morning. My father asked about the gym and I showed him the log in here. He was quiet for a bit and said he wished he had started something like that at my age. We walked to the lighthouse and back and it was the longest conversation we have had in years.",
+      "gratitudes": [
+        "The walk to the lighthouse with my father"
+      ],
+      "memories": [
+        "My father saying he wished he had started at my age"
+      ]
+    },
+    {
+      "daysAgo": 416,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Seneca's letters on the tram, one a day. Asked myself what I wanted this week and had an answer."
+    },
+    {
+      "daysAgo": 420,
+      "journal": "Class tonight. Rafa taught a small turn and half of us turned the wrong way. The city half empty. Everyone is at the sea. A Seneca letter about travel: you take yourself with you wherever you go.",
+      "gratitudes": [
+        "The accordion player at the baile"
+      ]
+    },
+    {
+      "daysAgo": 421,
+      "journal": "Practised the basic step in the kitchen while the pasta boiled. Tomatoes from the market that actually taste of something.",
+      "gratitudes": [
+        "Léa's texts"
+      ]
+    },
+    {
+      "daysAgo": 424,
+      "journal": "Light session, mostly stretching. My hips are tight from dancing. Swam at the outdoor pool after work, forty lengths.",
+      "accomplishments": [
+        "Squat 105kg top set"
+      ]
+    },
+    {
+      "daysAgo": 426,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. Kahneman at lunch. Two pages, a lot of coffee. Everything feels a bit lighter this spring.",
+      "gratitudes": [
+        "Claire checking in"
+      ],
+      "memories": [
+        "The bridge at night with the whole city lit up"
+      ]
+    },
+    {
+      "daysAgo": 428,
+      "journal": "Class tonight. Rafa taught a small turn and half of us turned the wrong way. Long evening on the quay with a beer and nothing to do.",
+      "gratitudes": [
+        "Dancing with Ana"
+      ]
+    },
+    {
+      "daysAgo": 429,
+      "journal": "Squats, and then walking home like a cowboy. Read on the quay until the light went.",
+      "accomplishments": [
+        "Deadlift 140kg top set"
+      ]
+    },
+    {
+      "daysAgo": 431,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow. Ate peaches over the sink. I laugh more than I did a year ago.",
+      "gratitudes": [
+        "Clean sheets",
+        "A quiet evening"
+      ]
+    },
+    {
+      "daysAgo": 432,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. Seneca's letters on the tram, one a day."
+    },
+    {
+      "daysAgo": 433,
+      "journal": "Squats, and then walking home like a cowboy."
+    },
+    {
+      "daysAgo": 435,
+      "journal": "Forró class. Worked on the frame. My arms are finally doing less. Iced coffee on the steps of the church in the square. A Seneca letter about travel: you take yourself with you wherever you go. Everything feels a bit lighter this spring.",
+      "gratitudes": [
+        "The forró crowd",
+        "A good book"
+      ]
+    },
+    {
+      "daysAgo": 436,
+      "journal": "Gym in the morning so I have legs left for the evening. The river quay full of people until midnight.",
+      "gratitudes": [
+        "A quiet evening",
+        "Léa's texts",
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 437,
+      "journal": "Too many emails, not enough drawing. I laugh more than I did a year ago.",
+      "todos": [
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        },
+        {
+          "title": "Buy chalk",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 438,
+      "journal": "Light session, mostly stretching. My hips are tight from dancing. Ate peaches over the sink. Kahneman at lunch. Two pages, a lot of coffee.",
+      "gratitudes": [
+        "Léa's texts",
+        "Tom at the gym",
+        "Claire checking in"
+      ],
+      "accomplishments": [
+        "Squat 100kg top set"
+      ]
+    },
+    {
+      "daysAgo": 439,
+      "journal": "Watched the swifts over the rooftops from the balcony. Read on the quay until the light went. Asked myself what I wanted this week and had an answer.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "Tom at the gym",
+        "A quiet evening"
+      ]
+    },
+    {
+      "daysAgo": 440,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. The river quay full of people until midnight. Seneca's letters on the tram, one a day."
+    },
+    {
+      "daysAgo": 441,
+      "journal": "Danced with Ana, then with a man from class who leads better than I do. Learned more following than leading. The city half empty. Everyone is at the sea. Read on the quay until the light went. Everything feels a bit lighter this spring.",
+      "gratitudes": [
+        "A quiet evening",
+        "The market on Saturday morning"
+      ],
+      "todos": [
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        },
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 442,
+      "journal": "Outdoor forró in the park every Sunday this summer. Rafa brings a speaker, people bring beer and watermelon. I went early and helped set up. Somebody's dog lay in the middle of the dance floor the whole time.",
+      "memories": [
+        "The dog asleep in the middle of the dance floor in the park"
+      ]
+    },
+    {
+      "daysAgo": 443,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow. Kahneman at lunch. Two pages, a lot of coffee.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "A long call with my mother"
+      ],
+      "accomplishments": [
+        "Squat 100kg top set"
+      ],
+      "memories": [
+        "Léa singing badly on the walk home"
+      ],
+      "dreams": [
+        "A house I designed with no doors, only stairs"
+      ]
+    },
+    {
+      "daysAgo": 444,
+      "journal": "Presented the facade options. They picked the one I wanted. Tomatoes from the market that actually taste of something. A Seneca letter about travel: you take yourself with you wherever you go.",
+      "gratitudes": [
+        "The market on Saturday morning"
+      ],
+      "todos": [
+        {
+          "title": "Reply to the landlord",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 445,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. Iced coffee on the steps of the church in the square.",
+      "accomplishments": [
+        "Squat 100kg top set"
+      ]
+    },
+    {
+      "daysAgo": 446,
+      "journal": "Fixed the wobbly table with a folded bus ticket. Very proud. Seneca's letters on the tram, one a day.",
+      "gratitudes": [
+        "A good book",
+        "The market on Saturday morning"
+      ]
+    },
+    {
+      "daysAgo": 448,
+      "journal": "Class in the back room of the bar. Hot, loud, good. Swam at the outdoor pool after work, forty lengths.",
+      "gratitudes": [
+        "Dancing with Ana"
+      ]
+    },
+    {
+      "daysAgo": 449,
+      "journal": "Forró. I counted less tonight. Storm in the evening, the whole street smelled of wet stone.",
+      "gratitudes": [
+        "A good night's sleep"
+      ]
+    },
+    {
+      "daysAgo": 450,
+      "journal": "Gym in the morning so I have legs left for the evening. Long evening on the quay with a beer and nothing to do. Read on the quay until the light went.",
+      "gratitudes": [
+        "Tom at the gym"
+      ],
+      "accomplishments": [
+        "Deadlift 135kg top set"
+      ]
+    },
+    {
+      "daysAgo": 452,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow.",
+      "gratitudes": [
+        "Léa's texts",
+        "Soup on a cold day"
+      ],
+      "accomplishments": [
+        "Deadlift 135kg top set"
+      ]
+    },
+    {
+      "daysAgo": 453,
+      "journal": "Team lunch. Someone brought a cake for no reason. Too hot to sleep. Lay on the floor with the window open and read.",
+      "gratitudes": [
+        "Fresh bread from the bakery"
+      ]
+    },
+    {
+      "daysAgo": 454,
+      "journal": "Light session, mostly stretching. My hips are tight from dancing."
+    },
+    {
+      "daysAgo": 457,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow. Swam at the outdoor pool after work, forty lengths. Asked myself what I wanted this week and had an answer.",
+      "gratitudes": [
+        "The market on Saturday morning"
+      ],
+      "memories": [
+        "Jules asleep on my shoulder on the sofa"
+      ]
+    },
+    {
+      "daysAgo": 458,
+      "journal": "Quiet day in the office, headphones on, plans done. Kahneman at lunch. Two pages, a lot of coffee."
+    },
+    {
+      "daysAgo": 459,
+      "journal": "Light session, mostly stretching. My hips are tight from dancing. Long evening on the quay with a beer and nothing to do. I laugh more than I did a year ago.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "Tom at the gym"
+      ]
+    },
+    {
+      "daysAgo": 460,
+      "journal": "Site visit in the rain. Boots full of mud, happy. Tomatoes from the market that actually taste of something. Asked myself what I wanted this week and had an answer."
+    },
+    {
+      "daysAgo": 463,
+      "journal": "Practised the basic step in the kitchen while the pasta boiled. Storm in the evening, the whole street smelled of wet stone. A Seneca letter about travel: you take yourself with you wherever you go."
+    },
+    {
+      "daysAgo": 464,
+      "journal": "Fête de la Musique. There was a forró band on the square by the market and half the class turned up. Danced in the street until midnight. I led a whole song with a stranger without looking at my feet once.",
+      "gratitudes": [
+        "Warm summer nights",
+        "The band that played until midnight"
+      ],
+      "memories": [
+        "Dancing forró on the market square on the longest day"
+      ]
+    },
+    {
+      "daysAgo": 467,
+      "journal": "Market, then cooking for the week. Seneca's letters on the tram, one a day.",
+      "gratitudes": [
+        "A long call with my mother",
+        "Jules on video"
+      ],
+      "todos": [
+        {
+          "title": "Book the physio",
+          "completed": true
+        },
+        {
+          "title": "Laundry",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 469,
+      "journal": "Class tonight. Rafa taught a small turn and half of us turned the wrong way. Iced coffee on the steps of the church in the square.",
+      "gratitudes": [
+        "Rafa's class"
+      ]
+    },
+    {
+      "daysAgo": 470,
+      "journal": "Practised the basic step in the kitchen while the pasta boiled. The city half empty. Everyone is at the sea. Read on the quay until the light went.",
+      "gratitudes": [
+        "A song I did not want to end"
+      ]
+    },
+    {
+      "daysAgo": 472,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing. Too hot to sleep. Lay on the floor with the window open and read. Kahneman at lunch. Two pages, a lot of coffee. I laugh more than I did a year ago."
+    },
+    {
+      "daysAgo": 473,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. Seneca's letters on the tram, one a day.",
+      "accomplishments": [
+        "Deadlift 125kg top set"
+      ]
+    },
+    {
+      "daysAgo": 474,
+      "journal": "Presented the facade options. They picked the one I wanted. A Seneca letter about travel: you take yourself with you wherever you go. Everything feels a bit lighter this spring.",
+      "memories": [
+        "The market man giving me a free peach"
+      ],
+      "todos": [
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 475,
+      "journal": "Gym in the morning so I have legs left for the evening. The river quay full of people until midnight. I laugh more than I did a year ago.",
+      "gratitudes": [
+        "A long call with my mother"
+      ],
+      "memories": [
+        "Dancing a xote in the rain outside the bar"
+      ]
+    },
+    {
+      "daysAgo": 476,
+      "journal": "Class in the back room of the bar. Hot, loud, good. Ate peaches over the sink.",
+      "gratitudes": [
+        "Music loud enough to feel in the floor",
+        "Clean sheets",
+        "My body feeling strong"
+      ],
+      "memories": [
+        "The whole class clapping when Rafa's daughter danced with him"
+      ],
+      "todos": [
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 477,
+      "journal": "Gave up on Thinking, Fast and Slow at page 280. Everything in it is true and I cannot hold any of it in my head. Switched to Seneca's letters, which are short and I can read one on the tram. Letter one: nothing is ours except time.",
+      "todos": [
+        {
+          "title": "Return the Kahneman to the library",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 478,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. Iced coffee on the steps of the church in the square. Everything feels a bit lighter this spring.",
+      "accomplishments": [
+        "Squat 90kg top set"
+      ]
+    },
+    {
+      "daysAgo": 479,
+      "journal": "Site visit in the rain. Boots full of mud, happy. Read on the quay until the light went."
+    },
+    {
+      "daysAgo": 483,
+      "journal": "Forró. I counted less tonight. Asked myself what I wanted this week and had an answer.",
+      "gratitudes": [
+        "The accordion player at the baile",
+        "My body feeling strong",
+        "The tram arriving just as I got there"
+      ]
+    },
+    {
+      "daysAgo": 485,
+      "journal": "Gym in the morning so I have legs left for the evening. Kahneman at lunch. Two pages, a lot of coffee.",
+      "gratitudes": [
+        "A good night's sleep",
+        "A long call with my mother",
+        "The river on the walk home"
+      ]
+    },
+    {
+      "daysAgo": 486,
+      "journal": "Team lunch. Someone brought a cake for no reason. Blossom all over the pavement on my street. A Seneca letter about travel: you take yourself with you wherever you go.",
+      "todos": [
+        {
+          "title": "Laundry",
+          "completed": true
+        },
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 487,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow. The plane trees on the quay have leaves again. Seneca's letters on the tram, one a day.",
+      "todos": [
+        {
+          "title": "Buy chalk",
+          "completed": true
+        },
+        {
+          "title": "Meal prep for the week",
+          "completed": true
+        },
+        {
+          "title": "Laundry",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 489,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow. A Seneca letter about travel: you take yourself with you wherever you go.",
+      "gratitudes": [
+        "Fresh bread from the bakery",
+        "Warm shower after training",
+        "My body feeling strong"
+      ],
+      "accomplishments": [
+        "Squat 90kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        },
+        {
+          "title": "Meal prep for the week",
+          "completed": true
+        },
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 490,
+      "journal": "Forró class. Worked on the frame. My arms are finally doing less. First evening warm enough to eat on the balcony.",
+      "gratitudes": [
+        "A song I did not want to end"
+      ],
+      "memories": [
+        "The swifts screaming over the square"
+      ]
+    },
+    {
+      "daysAgo": 491,
+      "journal": "Film at the old cinema by the canal with Léa. Cycled to work for the first time since October. Read on the quay until the light went. Everything feels a bit lighter this spring.",
+      "gratitudes": [
+        "A long call with my mother"
+      ],
+      "todos": [
+        {
+          "title": "Reply to the landlord",
+          "completed": true
+        },
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 492,
+      "journal": "Squats, and then walking home like a cowboy. Windows open all day, the whole flat smelled of the lime tree.",
+      "accomplishments": [
+        "Squat 90kg top set"
+      ]
+    },
+    {
+      "daysAgo": 493,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing. The café by the tram stop put its tables out. Asked myself what I wanted this week and had an answer."
+    },
+    {
+      "daysAgo": 494,
+      "journal": "Gym in the morning so I have legs left for the evening. Windows open all day, the whole flat smelled of the lime tree. Kahneman at lunch. Two pages, a lot of coffee. I laugh more than I did a year ago.",
+      "accomplishments": [
+        "Deadlift 120kg top set"
+      ]
+    },
+    {
+      "daysAgo": 495,
+      "journal": "Quiet day in the office, headphones on, plans done. First evening warm enough to eat on the balcony. Read on the quay until the light went."
+    },
+    {
+      "daysAgo": 496,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow. Seneca's letters on the tram, one a day.",
+      "gratitudes": [
+        "Tom at the gym",
+        "Soup on a cold day"
+      ],
+      "memories": [
+        "Tom's face when I beat his squat PR"
+      ]
+    },
+    {
+      "daysAgo": 497,
+      "journal": "Third class. For about ten seconds tonight the step went on its own and I was listening to the music instead of counting. Then I stepped on Ana's foot. Still, ten seconds.",
+      "memories": [
+        "Ten seconds of the step going on its own"
+      ]
+    },
+    {
+      "daysAgo": 502,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Asparagus at the market, the first of the year. Kahneman at lunch. Two pages, a lot of coffee."
+    },
+    {
+      "daysAgo": 504,
+      "journal": "Danced with Ana, then with a man from class who leads better than I do. Learned more following than leading. Cycled to work for the first time since October.",
+      "gratitudes": [
+        "Dancing with Ana"
+      ]
+    },
+    {
+      "daysAgo": 506,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. Rain and sun every ten minutes all afternoon. Asked myself what I wanted this week and had an answer.",
+      "gratitudes": [
+        "Léa's texts"
+      ],
+      "accomplishments": [
+        "Deadlift 120kg top set"
+      ],
+      "memories": [
+        "My mother laughing at my father's terrible joke"
+      ]
+    },
+    {
+      "daysAgo": 507,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Everything feels a bit lighter this spring.",
+      "memories": [
+        "The bridge at night with the whole city lit up"
+      ]
+    },
+    {
+      "daysAgo": 508,
+      "journal": "Light session, mostly stretching. My hips are tight from dancing. Light until eight now. The evenings feel twice as long. I laugh more than I did a year ago.",
+      "gratitudes": [
+        "Warm shower after training",
+        "Jules on video"
+      ],
+      "accomplishments": [
+        "Squat 85kg top set"
+      ]
+    },
+    {
+      "daysAgo": 509,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping. Blossom all over the pavement on my street. A Seneca letter about travel: you take yourself with you wherever you go."
+    },
+    {
+      "daysAgo": 510,
+      "journal": "Squats, and then walking home like a cowboy. The café by the tram stop put its tables out.",
+      "gratitudes": [
+        "A long call with my mother",
+        "A good night's sleep",
+        "Soup on a cold day"
+      ],
+      "accomplishments": [
+        "Deadlift 115kg top set"
+      ]
+    },
+    {
+      "daysAgo": 511,
+      "journal": "First proper forró class. Beginners, ten weeks, Monday evenings, with a teacher called Rafa who is from Recife and very patient. He says the lead is not about pushing but about giving a clear intention through the frame. My frame was apparently a coat hanger. Ana, my partner for most of it, laughed a lot, mostly at me.",
+      "gratitudes": [
+        "Rafa's patience"
+      ],
+      "accomplishments": [
+        "First forró class"
+      ]
+    },
+    {
+      "daysAgo": 512,
+      "journal": "Long bath and an early night. Seneca's letters on the tram, one a day."
+    },
+    {
+      "daysAgo": 513,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. The plane trees on the quay have leaves again.",
+      "accomplishments": [
+        "Squat 85kg top set"
+      ]
+    },
+    {
+      "daysAgo": 515,
+      "journal": "Deadlifts. Chalk everywhere, including my eyebrow somehow. The café by the tram stop put its tables out."
+    },
+    {
+      "daysAgo": 517,
+      "journal": "Squats, and then walking home like a cowboy. I laugh more than I did a year ago.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "Tom at the gym"
+      ]
+    },
+    {
+      "daysAgo": 520,
+      "journal": "Gym in the morning so I have legs left for the evening. A Seneca letter about travel: you take yourself with you wherever you go. Everything feels a bit lighter this spring."
+    },
+    {
+      "daysAgo": 521,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon. Cycled to work for the first time since October. Read on the quay until the light went. Asked myself what I wanted this week and had an answer."
+    },
+    {
+      "daysAgo": 522,
+      "journal": "Trained with Tom. He wants me to try a proper strength block over the summer. Asparagus at the market, the first of the year. Kahneman at lunch. Two pages, a lot of coffee."
+    },
+    {
+      "daysAgo": 523,
+      "journal": "Too many emails, not enough drawing. Seneca's letters on the tram, one a day. Asked myself what I wanted this week and had an answer.",
+      "gratitudes": [
+        "A good book",
+        "Léa's texts"
+      ],
+      "dreams": [
+        "Back at school, but all my teachers were forró dancers"
+      ]
+    },
+    {
+      "daysAgo": 525,
+      "journal": "Danced with Ana, then with a man from class who leads better than I do. Learned more following than leading. Rain and sun every ten minutes all afternoon.",
+      "gratitudes": [
+        "Jules on video",
+        "The market on Saturday morning"
+      ]
+    },
+    {
+      "daysAgo": 528,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Blossom all over the pavement on my street.",
+      "gratitudes": [
+        "Morning coffee on the balcony",
+        "A good night's sleep"
+      ],
+      "todos": [
+        {
+          "title": "Renew the tram pass",
+          "completed": true
+        },
+        {
+          "title": "Order the lamp for the living room",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 531,
+      "journal": "Squats, and then walking home like a cowboy. The plane trees on the quay have leaves again.",
+      "accomplishments": [
+        "Deadlift 110kg top set"
+      ]
+    },
+    {
+      "daysAgo": 532,
+      "journal": "Class in the back room of the bar. Hot, loud, good. A Seneca letter about travel: you take yourself with you wherever you go.",
+      "gratitudes": [
+        "Music loud enough to feel in the floor"
+      ]
+    },
+    {
+      "daysAgo": 533,
+      "journal": "Still thinking about last night. Everyone dances with everyone. Nobody seemed to be performing. The closest I have felt to that is the gym at seven in the morning, when everyone is just getting on with it."
+    },
+    {
+      "daysAgo": 534,
+      "journal": "The ticket from Léa was a forró night. A Brazilian partner dance, apparently, in the back room of a bar near the canal, accordion and triangle and a drum. I stood by the wall for forty minutes. Then a woman in her sixties took my hand and walked me through the basic step like she had done it a thousand times, which she had. Two steps to one side, two to the other. I was terrible and nobody cared.",
+      "gratitudes": [
+        "Léa for dragging me there"
+      ],
+      "memories": [
+        "The woman who taught me the basic step at the forró night"
+      ]
+    },
+    {
+      "daysAgo": 536,
+      "journal": "Team lunch. Someone brought a cake for no reason."
+    },
+    {
+      "daysAgo": 538,
+      "journal": "Quiet day in the office, headphones on, plans done.",
+      "gratitudes": [
+        "Léa's texts",
+        "Tom at the gym",
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 539,
+      "journal": "Tom and I trained together, mostly in silence, which is how I like it. First evening warm enough to eat on the balcony. Consistency is boring and it works.",
+      "accomplishments": [
+        "Deadlift 110kg top set"
+      ]
+    },
+    {
+      "daysAgo": 540,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Windows open all day, the whole flat smelled of the lime tree. Started a book on sleep and stayed up late to finish the chapter, which is funny."
+    },
+    {
+      "daysAgo": 543,
+      "journal": "Walked home along the river instead of taking the tram."
+    },
+    {
+      "daysAgo": 544,
+      "journal": "Gym at seven before work. The place is quiet and everyone nods. Read The Courage to Be Disliked in the bath until the water went cold. The winter feels shorter this year.",
+      "gratitudes": [
+        "Jules on video"
+      ],
+      "accomplishments": [
+        "Deadlift 105kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 545,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. Light until eight now. The evenings feel twice as long. Reread a few pages of Meditations. It reads differently in winter.",
+      "gratitudes": [
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 546,
+      "journal": "New rows program. My grip gave out before my back did. Rain and sun every ten minutes all afternoon. Atomic Habits on the tram. Underlined too much.",
+      "todos": [
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 547,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. Went to bed without the phone again."
+    },
+    {
+      "daysAgo": 548,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books. Consistency is boring and it works."
+    },
+    {
+      "daysAgo": 549,
+      "journal": "Squatted my bodyweight, 78kg, for five clean reps. Six months ago I could not do one with the empty bar without my heels lifting. Wrote it on the whiteboard in the kitchen.",
+      "accomplishments": [
+        "Squat bodyweight (78kg) for 5"
+      ]
+    },
+    {
+      "daysAgo": 550,
+      "journal": "Too many emails, not enough drawing. Asparagus at the market, the first of the year. Reread a few pages of Meditations. It reads differently in winter. The winter feels shorter this year.",
+      "gratitudes": [
+        "Claire checking in",
+        "My body feeling strong"
+      ]
+    },
+    {
+      "daysAgo": 551,
+      "journal": "Missed Monday so went Tuesday. Never miss twice. Atomic Habits on the tram. Underlined too much."
+    },
+    {
+      "daysAgo": 553,
+      "journal": "Squats felt heavy and I did them anyway. That is most of it, I think. First evening warm enough to eat on the balcony.",
+      "todos": [
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        },
+        {
+          "title": "Reply to the landlord",
+          "completed": true
+        },
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 556,
+      "journal": "Bench stuck at the same weight for two weeks. Tom says eat more. Read The Courage to Be Disliked in the bath until the water went cold.",
+      "accomplishments": [
+        "Squat 75kg top set"
+      ]
+    },
+    {
+      "daysAgo": 558,
+      "journal": "Tom and I trained together, mostly in silence, which is how I like it. Cycled to work for the first time since October.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "Fresh bread from the bakery"
+      ]
+    },
+    {
+      "daysAgo": 559,
+      "journal": "Film at the old cinema by the canal with Léa. Blossom all over the pavement on my street.",
+      "gratitudes": [
+        "Clean sheets",
+        "Morning coffee on the balcony"
+      ]
+    },
+    {
+      "daysAgo": 560,
+      "journal": "New rows program. My grip gave out before my back did. The plane trees on the quay have leaves again.",
+      "gratitudes": [
+        "Léa's texts",
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 562,
+      "journal": "Long bath and an early night. Windows open all day, the whole flat smelled of the lime tree. Went to bed without the phone again."
+    },
+    {
+      "daysAgo": 563,
+      "journal": "Thirty-four. Dinner with Claire, Léa and Tom at the Lebanese place. Claire gave me a notebook, Léa gave me a ticket to something she would not explain, Tom gave me chalk. Good birthday.",
+      "gratitudes": [
+        "Dinner with the three people who know me best here",
+        "A cake with the wrong number of candles"
+      ]
+    },
+    {
+      "daysAgo": 564,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Light until eight now. The evenings feel twice as long."
+    },
+    {
+      "daysAgo": 565,
+      "journal": "Missed Monday so went Tuesday. Never miss twice. Started a book on sleep and stayed up late to finish the chapter, which is funny.",
+      "accomplishments": [
+        "Squat 70kg top set"
+      ]
+    },
+    {
+      "daysAgo": 567,
+      "journal": "Gym at seven before work. The place is quiet and everyone nods.",
+      "gratitudes": [
+        "Léa's texts",
+        "Claire checking in"
+      ],
+      "todos": [
+        {
+          "title": "Fix the bike brakes",
+          "completed": true
+        },
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        },
+        {
+          "title": "Laundry",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 570,
+      "journal": "Bench stuck at the same weight for two weeks. Tom says eat more. The café by the tram stop put its tables out.",
+      "accomplishments": [
+        "Squat 70kg top set"
+      ]
+    },
+    {
+      "daysAgo": 571,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Cycled to work for the first time since October. Read The Courage to Be Disliked in the bath until the water went cold. Consistency is boring and it works."
+    },
+    {
+      "daysAgo": 572,
+      "journal": "Squats felt heavy and I did them anyway. That is most of it, I think. Atomic Habits on the tram. Underlined too much.",
+      "accomplishments": [
+        "Squat 70kg top set"
+      ]
+    },
+    {
+      "daysAgo": 573,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. Light until eight now. The evenings feel twice as long.",
+      "memories": [
+        "The market man giving me a free peach"
+      ]
+    },
+    {
+      "daysAgo": 574,
+      "journal": "Bench stuck at the same weight for two weeks. Tom says eat more. The plane trees on the quay have leaves again. Started a book on sleep and stayed up late to finish the chapter, which is funny.",
+      "accomplishments": [
+        "Squat 70kg top set"
+      ]
+    },
+    {
+      "daysAgo": 576,
+      "journal": "Fixed the wobbly table with a folded bus ticket. Very proud. First evening warm enough to eat on the balcony. Reread a few pages of Meditations. It reads differently in winter.",
+      "memories": [
+        "Jules asleep on my shoulder on the sofa"
+      ]
+    },
+    {
+      "daysAgo": 578,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. Read The Courage to Be Disliked in the bath until the water went cold.",
+      "memories": [
+        "The tram driver waiting for me at the stop"
+      ],
+      "todos": [
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        },
+        {
+          "title": "Return Léa's book",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 582,
+      "journal": "Walked home along the river instead of taking the tram. Went to bed without the phone again.",
+      "gratitudes": [
+        "A long call with my mother",
+        "Soup on a cold day"
+      ],
+      "dreams": [
+        "Swimming in the river in winter and it was warm"
+      ]
+    },
+    {
+      "daysAgo": 584,
+      "journal": "Deadlifted 100kg for the first time. Tom shouted, the man on the next platform shouted, I did not know what to do with my face. Walked home in the rain grinning.",
+      "memories": [
+        "Tom shouting when the bar came up at 100kg"
+      ],
+      "accomplishments": [
+        "Deadlift 100kg"
+      ]
+    },
+    {
+      "daysAgo": 586,
+      "journal": "Squats felt heavy and I did them anyway. That is most of it, I think. Dark by five. The tram windows fogged up all the way home.",
+      "gratitudes": [
+        "A quiet evening",
+        "Fresh bread from the bakery"
+      ]
+    },
+    {
+      "daysAgo": 587,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing. Soup from the Vietnamese place on the corner, eaten standing at the window. Started a book on sleep and stayed up late to finish the chapter, which is funny."
+    },
+    {
+      "daysAgo": 589,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon. The winter feels shorter this year.",
+      "todos": [
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        },
+        {
+          "title": "Buy chalk",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 590,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books. Frost on the bike saddle this morning.",
+      "gratitudes": [
+        "An evening with nothing planned"
+      ]
+    },
+    {
+      "daysAgo": 593,
+      "journal": "Missed Monday so went Tuesday. Never miss twice. Went to bed without the phone again."
+    },
+    {
+      "daysAgo": 594,
+      "journal": "Site visit in the rain. Boots full of mud, happy. Grey all day, the kind of cold that sits in the stairwell.",
+      "memories": [
+        "My mother laughing at my father's terrible joke"
+      ]
+    },
+    {
+      "daysAgo": 595,
+      "journal": "New rows program. My grip gave out before my back did. Walked home through the lit-up streets in the cold.",
+      "accomplishments": [
+        "Squat 65kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Take the recycling down",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 598,
+      "journal": "Tom and I trained together, mostly in silence, which is how I like it. The river was steaming in the cold at eight. Reread a few pages of Meditations. It reads differently in winter."
+    },
+    {
+      "daysAgo": 599,
+      "journal": "Presented the facade options. They picked the one I wanted. Snow for about an hour, then rain on top of it. Atomic Habits on the tram. Underlined too much. The winter feels shorter this year."
+    },
+    {
+      "daysAgo": 601,
+      "journal": "Market, then cooking for the week. Clear and very cold. You could see the mountains from the bridge. Read The Courage to Be Disliked in the bath until the water went cold. Consistency is boring and it works.",
+      "gratitudes": [
+        "Fresh bread from the bakery",
+        "Jules on video"
+      ],
+      "todos": [
+        {
+          "title": "Water the balcony plants",
+          "completed": true
+        },
+        {
+          "title": "Book the physio",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 602,
+      "journal": "Squats felt heavy and I did them anyway. That is most of it, I think. Started a book on sleep and stayed up late to finish the chapter, which is funny.",
+      "gratitudes": [
+        "Soup on a cold day",
+        "A long call with my mother"
+      ],
+      "accomplishments": [
+        "Deadlift 90kg top set"
+      ],
+      "memories": [
+        "The whole class clapping when Rafa's daughter danced with him"
+      ]
+    },
+    {
+      "daysAgo": 603,
+      "journal": "Started The Courage to Be Disliked. It is a dialogue between a philosopher and a young man who is angry at everything, and I recognise too much of the young man. The claim that all problems are interpersonal problems annoyed me for an hour and then I could not stop thinking about it."
+    },
+    {
+      "daysAgo": 604,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours.",
+      "gratitudes": [
+        "The market on Saturday morning",
+        "Fresh bread from the bakery",
+        "The river on the walk home"
+      ]
+    },
+    {
+      "daysAgo": 605,
+      "journal": "Gym at seven before work. The place is quiet and everyone nods. Grey all day, the kind of cold that sits in the stairwell. Reread a few pages of Meditations. It reads differently in winter.",
+      "gratitudes": [
+        "A long call with my mother",
+        "Léa's texts",
+        "A good book"
+      ],
+      "accomplishments": [
+        "Squat 65kg top set"
+      ],
+      "dreams": [
+        "Lifting a bar that kept getting longer"
+      ]
+    },
+    {
+      "daysAgo": 606,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Frost on the bike saddle this morning. Went to bed without the phone again."
+    },
+    {
+      "daysAgo": 608,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Atomic Habits on the tram. Underlined too much.",
+      "todos": [
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 610,
+      "journal": "Long bath and an early night. Atomic Habits on the tram. Underlined too much.",
+      "gratitudes": [
+        "A long call with my mother"
+      ],
+      "dreams": [
+        "Dancing on a moving tram and nobody finding it strange"
+      ]
+    },
+    {
+      "daysAgo": 612,
+      "journal": "New rows program. My grip gave out before my back did.",
+      "accomplishments": [
+        "Deadlift 90kg top set"
+      ]
+    },
+    {
+      "daysAgo": 613,
+      "journal": "Market, then cooking for the week. Walked home through the lit-up streets in the cold. Reread a few pages of Meditations. It reads differently in winter. The winter feels shorter this year.",
+      "gratitudes": [
+        "Léa's texts",
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 615,
+      "journal": "Team lunch. Someone brought a cake for no reason. Dark by five. The tram windows fogged up all the way home."
+    },
+    {
+      "daysAgo": 618,
+      "journal": "Film at the old cinema by the canal with Léa. Clear and very cold. You could see the mountains from the bridge. Started a book on sleep and stayed up late to finish the chapter, which is funny."
+    },
+    {
+      "daysAgo": 619,
+      "journal": "Bench stuck at the same weight for two weeks. Tom says eat more. Consistency is boring and it works.",
+      "gratitudes": [
+        "A quiet evening",
+        "My body feeling strong"
+      ]
+    },
+    {
+      "daysAgo": 620,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Soup from the Vietnamese place on the corner, eaten standing at the window.",
+      "gratitudes": [
+        "Soup on a cold day",
+        "A quiet evening",
+        "A good night's sleep"
+      ]
+    },
+    {
+      "daysAgo": 622,
+      "journal": "Fixed the wobbly table with a folded bus ticket. Very proud. The winter feels shorter this year."
+    },
+    {
+      "daysAgo": 624,
+      "journal": "Read Atomic Habits because everyone at work has. Half of it I already knew and half of it was useful. The idea I am keeping: stop deciding whether to go to the gym. Monday, Wednesday, Friday, after work, bag already packed by the door.",
+      "todos": [
+        {
+          "title": "Pack the gym bag the night before",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 625,
+      "journal": "Walked home along the river instead of taking the tram. Radiator in the flat finally working properly. Went to bed without the phone again."
+    },
+    {
+      "daysAgo": 628,
+      "journal": "Tom and I trained together, mostly in silence, which is how I like it.",
+      "gratitudes": [
+        "Léa's texts",
+        "My body feeling strong"
+      ]
+    },
+    {
+      "daysAgo": 631,
+      "journal": "Watched the swifts over the rooftops from the balcony. Read The Courage to Be Disliked in the bath until the water went cold."
+    },
+    {
+      "daysAgo": 632,
+      "journal": "Long bath and an early night. Market almost empty, just the cheese man and the oranges."
+    },
+    {
+      "daysAgo": 633,
+      "journal": "Missed Monday so went Tuesday. Never miss twice.",
+      "memories": [
+        "The swifts screaming over the square"
+      ],
+      "todos": [
+        {
+          "title": "Dentist appointment",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 634,
+      "journal": "Film at the old cinema by the canal with Léa. Reread a few pages of Meditations. It reads differently in winter."
+    },
+    {
+      "daysAgo": 636,
+      "journal": "No resolutions this year. I just want to keep doing the three things that worked since October: the gym, this journal, and reading before bed instead of scrolling. Small party at Léa's. Home by one.",
+      "gratitudes": [
+        "Léa's New Year's party, and leaving it at a sensible hour"
+      ]
+    },
+    {
+      "daysAgo": 637,
+      "journal": "Short session, legs heavy from Monday. Did it anyway. The river was steaming in the cold at eight. Read Marcus Aurelius on the tram. Book four, on how short everything is. I feel more awake than a month ago."
+    },
+    {
+      "daysAgo": 638,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon. Snow for about an hour, then rain on top of it. Trying to notice things while they happen.",
+      "todos": [
+        {
+          "title": "Fix the bike brakes",
+          "completed": true
+        },
+        {
+          "title": "Meal prep for the week",
+          "completed": true
+        },
+        {
+          "title": "Book the physio",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 639,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping. Grey all day, the kind of cold that sits in the stairwell.",
+      "gratitudes": [
+        "Warm shower after training",
+        "A long call with my mother",
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 642,
+      "journal": "Went to the gym tired and came out less tired, which still surprises me. Not much to say. Wrote this anyway.",
+      "accomplishments": [
+        "Deadlift 80kg top set"
+      ]
+    },
+    {
+      "daysAgo": 643,
+      "journal": "Train to my parents' through the frozen fields. My mother asked if I was eating enough and then fed me for six hours. My father and I did the washing up in silence, which is how we talk. Claire's boy Jules is four now and wanted to be thrown onto the sofa about eighty times.",
+      "gratitudes": [
+        "My mother's gratin",
+        "Jules asking me to throw him again, and again"
+      ],
+      "memories": [
+        "Washing up with my father after Christmas Eve dinner"
+      ]
+    },
+    {
+      "daysAgo": 647,
+      "journal": "Gym after work. Still no idea what I am doing with half the machines, but I follow Tom's receipt. The river was steaming in the cold at eight. Frankl in the café at lunch. I feel more awake than a month ago.",
+      "gratitudes": [
+        "Morning coffee on the balcony",
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 648,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing. Soup from the Vietnamese place on the corner, eaten standing at the window. Ten pages of Meditations before bed instead of the phone.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 650,
+      "journal": "Quiet day in the office, headphones on, plans done. Radiator in the flat finally working properly."
+    },
+    {
+      "daysAgo": 651,
+      "journal": "Squats, bench, rows. Added 2.5kg to everything, as instructed.",
+      "dreams": [
+        "Swimming in the river in winter and it was warm"
+      ]
+    },
+    {
+      "daysAgo": 654,
+      "journal": "Gym. A teenager was squatting twice what I do and I decided that was fine."
+    },
+    {
+      "daysAgo": 656,
+      "journal": "Gym. A teenager was squatting twice what I do and I decided that was fine. Snow for about an hour, then rain on top of it."
+    },
+    {
+      "daysAgo": 657,
+      "journal": "Watched the swifts over the rooftops from the balcony. Walked home through the lit-up streets in the cold. Frankl in the café at lunch."
+    },
+    {
+      "daysAgo": 658,
+      "journal": "Gym after work. Still no idea what I am doing with half the machines, but I follow Tom's receipt. Clear and very cold. You could see the mountains from the bridge. Ten pages of Meditations before bed instead of the phone.",
+      "gratitudes": [
+        "Clean sheets",
+        "A good night's sleep",
+        "The tram arriving just as I got there"
+      ]
+    },
+    {
+      "daysAgo": 659,
+      "journal": "Market, then cooking for the week. Dark by five. The tram windows fogged up all the way home.",
+      "gratitudes": [
+        "Tom at the gym"
+      ]
+    },
+    {
+      "daysAgo": 660,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Market almost empty, just the cheese man and the oranges. Trying to notice things while they happen.",
+      "memories": [
+        "Tom's face when I beat his squat PR"
+      ]
+    },
+    {
+      "daysAgo": 661,
+      "journal": "Twenty sessions since October. I counted in here. My shirts fit differently across the shoulders, or I am imagining it. Either way I am sleeping better, which I did not expect to be the main thing.",
+      "accomplishments": [
+        "Twenty gym sessions"
+      ]
+    },
+    {
+      "daysAgo": 662,
+      "journal": "Too many emails, not enough drawing. Frost on the bike saddle this morning. Read Marcus Aurelius on the tram. Book four, on how short everything is. Not much to say. Wrote this anyway.",
+      "gratitudes": [
+        "Léa's texts"
+      ]
+    },
+    {
+      "daysAgo": 666,
+      "journal": "Fixed the wobbly table with a folded bus ticket. Very proud. Ten pages of Meditations before bed instead of the phone."
+    },
+    {
+      "daysAgo": 667,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. Frankl in the café at lunch.",
+      "todos": [
+        {
+          "title": "Pay the electricity bill",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 669,
+      "journal": "Site visit in the rain. Boots full of mud, happy. Chestnuts roasting on the corner by the station. I feel more awake than a month ago."
+    },
+    {
+      "daysAgo": 672,
+      "journal": "Went to the gym tired and came out less tired, which still surprises me. The first cold morning. Found last year's scarf in the wardrobe. Read Marcus Aurelius on the tram. Book four, on how short everything is.",
+      "gratitudes": [
+        "My body feeling strong",
+        "A long call with my mother"
+      ]
+    },
+    {
+      "daysAgo": 676,
+      "journal": "Client meeting ran over. Ate a sandwich at my desk and hated it. Chestnuts roasting on the corner by the station. Not much to say. Wrote this anyway.",
+      "memories": [
+        "Dancing a xote in the rain outside the bar"
+      ],
+      "dreams": [
+        "Dancing on a moving tram and nobody finding it strange"
+      ]
+    },
+    {
+      "daysAgo": 677,
+      "journal": "Short session, legs heavy from Monday. Did it anyway. Trying to notice things while they happen.",
+      "gratitudes": [
+        "A good book",
+        "The market on Saturday morning"
+      ]
+    },
+    {
+      "daysAgo": 678,
+      "journal": "Long day at the practice. Drawings for a housing block that keeps changing. Ten pages of Meditations before bed instead of the phone.",
+      "gratitudes": [
+        "A good night's sleep",
+        "Clean sheets"
+      ]
+    },
+    {
+      "daysAgo": 679,
+      "journal": "Gym after work. Still no idea what I am doing with half the machines, but I follow Tom's receipt. Frankl in the café at lunch.",
+      "gratitudes": [
+        "The tram arriving just as I got there"
+      ],
+      "accomplishments": [
+        "Deadlift 70kg top set"
+      ]
+    },
+    {
+      "daysAgo": 680,
+      "journal": "Finished Man's Search for Meaning in one Sunday. Frankl says we cannot always choose what happens but we choose the attitude we bring to it. I have been treating my job as something that happens to me. It is a job I chose and could leave. That is uncomfortable to write down.",
+      "memories": [
+        "Finishing Frankl on the sofa as it got dark at five"
+      ]
+    },
+    {
+      "daysAgo": 681,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. Mushrooms at the market, the man says it has been a good year."
+    },
+    {
+      "daysAgo": 688,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books. The light goes gold around five now. Read Marcus Aurelius on the tram. Book four, on how short everything is.",
+      "todos": [
+        {
+          "title": "Call my parents",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 690,
+      "journal": "Team lunch. Someone brought a cake for no reason. Rain all day, the good kind for reading. Trying to notice things while they happen."
+    },
+    {
+      "daysAgo": 691,
+      "journal": "Short session, legs heavy from Monday. Did it anyway."
+    },
+    {
+      "daysAgo": 692,
+      "journal": "Good day at work for once. Solved a staircase that had been bothering me for weeks. Put the duvet back on the bed. Not much to say. Wrote this anyway.",
+      "gratitudes": [
+        "Clean sheets",
+        "Fresh bread from the bakery",
+        "Morning coffee on the balcony"
+      ]
+    },
+    {
+      "daysAgo": 693,
+      "journal": "Sore in places I did not know had muscles. Stairs to the office were a negotiation. Still went back this evening. Tom says the soreness fades after a few weeks, and that the trick is to never miss twice in a row.",
+      "accomplishments": [
+        "Squat 50kg, 5x5"
+      ]
+    },
+    {
+      "daysAgo": 695,
+      "journal": "Coffee with Léa in the square. She is thinking of moving to Lisbon. Fog on the river until ten.",
+      "gratitudes": [
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 696,
+      "journal": "Squats, bench, rows. Added 2.5kg to everything, as instructed. Leaves all over the tram tracks, the tram crawling.",
+      "gratitudes": [
+        "The tram arriving just as I got there",
+        "The market on Saturday morning"
+      ]
+    },
+    {
+      "daysAgo": 697,
+      "journal": "Walked home along the river instead of taking the tram. I feel more awake than a month ago.",
+      "gratitudes": [
+        "An evening with nothing planned",
+        "Soup on a cold day"
+      ]
+    },
+    {
+      "daysAgo": 698,
+      "journal": "Went to the gym tired and came out less tired, which still surprises me. Read Marcus Aurelius on the tram. Book four, on how short everything is.",
+      "accomplishments": [
+        "Deadlift 65kg top set"
+      ]
+    },
+    {
+      "daysAgo": 701,
+      "journal": "Claire and Jules came over. Jules built a tower out of my books. I feel more awake than a month ago."
+    },
+    {
+      "daysAgo": 702,
+      "journal": "Dinner at Tom's. His girlfriend cooked and we talked about nothing for four hours. Put the duvet back on the bed. Trying to notice things while they happen.",
+      "gratitudes": [
+        "The river on the walk home"
+      ]
+    },
+    {
+      "daysAgo": 703,
+      "journal": "Gym. A teenager was squatting twice what I do and I decided that was fine. Chestnuts roasting on the corner by the station. Ten pages of Meditations before bed instead of the phone."
+    },
+    {
+      "daysAgo": 705,
+      "journal": "Squats, bench, rows. Added 2.5kg to everything, as instructed. The first cold morning. Found last year's scarf in the wardrobe. Frankl in the café at lunch. Not much to say. Wrote this anyway.",
+      "gratitudes": [
+        "A quiet evening",
+        "Léa's texts"
+      ],
+      "accomplishments": [
+        "Squat 40kg top set"
+      ]
+    },
+    {
+      "daysAgo": 706,
+      "journal": "Quiet day in the office, headphones on, plans done. Trying to notice things while they happen.",
+      "todos": [
+        {
+          "title": "Book the train to my parents'",
+          "completed": true
+        },
+        {
+          "title": "Send the drawings to the engineer",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 707,
+      "journal": "Tom from the office saw me at the gym and laughed, kindly. He has been lifting for ten years. He watched me squat and said I was doing a very good impression of someone sitting on a chair that was not there. He wrote a program on the back of a receipt: squat, bench, row, three times a week, add weight every session.",
+      "gratitudes": [
+        "Tom taking an hour to show me how to squat properly"
+      ],
+      "todos": [
+        {
+          "title": "Buy flat shoes for the gym",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 708,
+      "journal": "Film at the old cinema by the canal with Léa. Mushrooms at the market, the man says it has been a good year."
+    },
+    {
+      "daysAgo": 709,
+      "journal": "Called my mother. She had questions about the gym that I could answer now. Leaves all over the tram tracks, the tram crawling.",
+      "todos": [
+        {
+          "title": "Fix the bike brakes",
+          "completed": true
+        },
+        {
+          "title": "Buy new dance shoes",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 710,
+      "journal": "Went to the gym tired and came out less tired, which still surprises me.",
+      "gratitudes": [
+        "Jules on video",
+        "Claire checking in",
+        "A good book"
+      ],
+      "accomplishments": [
+        "Squat 40kg top set"
+      ],
+      "todos": [
+        {
+          "title": "Buy chalk",
+          "completed": true
+        },
+        {
+          "title": "Book the physio",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "daysAgo": 713,
+      "journal": "Met Claire for a drink after work. She is tired, Jules is not sleeping. Fog on the river until ten."
+    },
+    {
+      "daysAgo": 716,
+      "journal": "Started Meditations again. I tried it at twenty and found it dry. This time a line in book two stopped me: you could leave life right now, let that decide what you do and say and think. Read it on the bench by the river until my hands got cold.",
+      "memories": [
+        "Reading Marcus Aurelius on the river bench with cold hands"
+      ]
+    },
+    {
+      "daysAgo": 719,
+      "journal": "Short session, legs heavy from Monday. Did it anyway. The light goes gold around five now. Not much to say. Wrote this anyway.",
+      "gratitudes": [
+        "An evening with nothing planned",
+        "Clean sheets"
+      ]
+    },
+    {
+      "daysAgo": 721,
+      "journal": "Went in. Signed up for a year before I could talk myself out of it. The guy at the desk asked what my goals were and I said I did not know, which he seemed to find normal. Did twenty minutes on the bike and some machines and left feeling like a tourist.",
+      "accomplishments": [
+        "Signed up at the gym"
+      ]
+    },
+    {
+      "daysAgo": 722,
+      "journal": "Did the laundry and cleaned the flat. Very satisfying. I feel more awake than a month ago."
+    },
+    {
+      "daysAgo": 723,
+      "journal": "Watched the swifts over the rooftops from the balcony. Read Marcus Aurelius on the tram. Book four, on how short everything is."
+    },
+    {
+      "daysAgo": 724,
+      "journal": "Gym after work. Still no idea what I am doing with half the machines, but I follow Tom's receipt. Trying to notice things while they happen.",
+      "memories": [
+        "The swifts screaming over the square"
+      ]
+    },
+    {
+      "daysAgo": 725,
+      "journal": "Market, then cooking for the week. Rain all day, the good kind for reading.",
+      "gratitudes": [
+        "Soup on a cold day",
+        "My body feeling strong"
+      ]
+    },
+    {
+      "daysAgo": 726,
+      "journal": "Walked past the gym on Rue Garibaldi again. The windows are fogged up in the evening and you can see people moving behind them. I keep thinking I should go in and then I keep walking.",
+      "gratitudes": [
+        "The bakery lady who remembers I take the rye"
+      ]
+    },
+    {
+      "daysAgo": 728,
+      "journal": "First entry. I bought this app on the tram home because I realised I could not remember anything specific about last month. Work, dinner, phone, sleep. I am thirty-three and the weeks are starting to look the same from the outside and the inside.\n\nThe plan is small. Write something every evening. Three lines is fine.",
+      "todos": [
+        {
+          "title": "Cancel the streaming subscription I never use",
+          "completed": true
+        }
+      ]
+    }
+  ]
+}
